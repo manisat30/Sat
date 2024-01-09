@@ -1,5 +1,17 @@
 #EXTM3U SK The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 
+
+#EXTINF:-1,STAR MOVIES HD-Rs19
+http://121.91.60.67:8045/play/a015/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD-Rs19
+http://121.91.60.67:8045/play/a00t/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD-Rs19
+http://121.91.60.67:8045/play/a00m/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD-Rs19
+http://121.91.60.67:8045/play/a00z/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD-Rs19
+http://121.91.60.67:8045/play/a00u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title=SK-TV",SAT-SK TV-1
 http://starshare.live:8080/live/sixson471/470405471/121372.ts
 
