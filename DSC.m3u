@@ -73,8 +73,7 @@ https://ipcloud.live/apsmedia/dreamstv.m3u8
 https://ipcloud.live/mtv/menhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fyogaa-tv.png?alt=media&token=ce543fc6-dde3-482f-a0ac-5e1772913055" group-title="1Cloud",Yogaa TV
 http://ipcloud.live:8080/yogaatv/yogaatv.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FAKASH-TV.png?alt=media&token=8292f92e-e1df-4ae4-b660-092ca4a1f910" group-title="1Cloud",AKASH TV 
-https://ipcloud.live/akashtv/akashtvhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fsubam-tv.png?alt=media&token=8ea9c342-2879-41fb-bf8a-11a79bba8637" group-title="1Cloud",Subam TV
 http://ipcloud.live:8080/balu/subamtv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fudhayam-tv.png?alt=media&token=969dab16-7d01-4f8d-a99d-6b27c564c2ac" group-title="1Cloud",Udhaiyam TV
