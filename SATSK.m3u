@@ -3,23 +3,11 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SSCloud",SAT.SK Rainbow TV
 http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK AKASH TV 
-https://ipcloud.live/akashtv/akashtvhd.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fudhayam-tv.png?alt=media&token=969dab16-7d01-4f8d-a99d-6b27c564c2ac" group-title="1Cloud",Udhaiyam TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK Udhaiyam TV
 http://ipcloud.live:8080/udhaiyamtv/udhaiyamhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi", OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
@@ -28,6 +16,23 @@ http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK AKASH TV 
+https://ipcloud.live/akashtv/akashtvhd.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
