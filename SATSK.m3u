@@ -70,6 +70,7 @@ http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp" group-title="Tamil Streams Rasi",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sunnetwork.in/ProgramImages/LargeImage/49_4_Colourful_Comedy_SAVE_20200706_112458_resize_79.jpg" group-title="Tamil Streams Rasi", Rasi comedy TV
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg" group-title="Tamil Streams Rasi",Rasi Music
