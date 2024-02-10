@@ -1,5 +1,7 @@
 #EXTM3U Exclusive to Tamil Live Links only ,not for sale or copy .
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="SSCloud",SAT.SK Rainbow TV
+http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK AKASH TV 
 https://ipcloud.live/akashtv/akashtvhd.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fudhayam-tv.png?alt=media&token=969dab16-7d01-4f8d-a99d-6b27c564c2ac" group-title="1Cloud",Udhaiyam TV
