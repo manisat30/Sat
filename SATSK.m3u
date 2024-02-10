@@ -9,6 +9,9 @@ http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK Udhaiyam TV
 http://ipcloud.live:8080/udhaiyamtv/udhaiyamhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud", Minnal TV
+https://1cloud.digital/minnaltv/minnalhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi", OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
 
@@ -200,8 +203,7 @@ https://ipcloud.live/skytv/skytv.m3u8
 https://1cloud.digital/mentv/mentvhd.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/J8Ih5f6cYVKL5QTGi55mMU8-uPuBnjTCrdFZc7HNPIDrajuLhP2qGjAlvGfUSeCwYWo=w240-h480-rw" group-title="1Cloud", Siva TV
 https://1cloud.digital/sivatv/sivatv.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud", Minnal TV
-https://1cloud.digital/minnaltv/minnalhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMALATHI-TV.png?alt=media&token=b8c6cc5a-4e7f-419a-912f-2bcc22f6ea17" group-title="1Cloud",Malathi TV
 https://ipcloud.live/malathitv/live.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FVEERA-TV.png?alt=media&token=315deb56-98ea-4ccb-8289-ce0c9d221610" group-title="1Cloud",Veera TV
