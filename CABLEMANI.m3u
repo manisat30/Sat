@@ -1,7 +1,7 @@
 #EXTM3U Exclusive to Tamil Live Links only ,not for sale or copy .
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="Singam Cloud",SAT.SK MUSIC Ithazh TNTR HD
-http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="Singam Cloud",SAT.SK MUSIC
+https://stream.zeno.fm/22db1xmde2zuv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SSCloud",SAT.SK Rainbow TV
 http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
@@ -27,6 +27,8 @@ http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK AKASH TV 
 https://ipcloud.live/akashtv/akashtvhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="Singam Cloud",SAT.SK MUSIC Ithazh TNTR HD
+http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
 
 
 
