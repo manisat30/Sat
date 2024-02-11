@@ -1,7 +1,7 @@
 #EXTM3U Exclusive to Tamil Live Links only ,not for sale or copy .
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="Singam Cloud",SAT.SK MUSIC Ithazh TNTR HD
-http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="Singam Cloud",SAT.SK MUSIC
+https://listen.radionomy.com/yuvan-shankar-raja-radio
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="SSCloud",SAT.SK Rainbow TV
 http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
@@ -27,6 +27,8 @@ http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK AKASH TV 
 https://ipcloud.live/akashtv/akashtvhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="Singam Cloud",SAT.SK MUSIC Ithazh TNTR HD
+http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
 
 
 
@@ -1277,40 +1279,3 @@ https://server.sscloud7.in/riotv/riotv/index.m3u8
 
 
 
-Source: https://www.tamilradios.com
-
-
-Hello FM 106.4
-   http://163.172.158.94:8048/;stream.mp3
-
-Radio Mirchi FM 98.3
-   http://163.172.158.94:8052/;stream.mp3
-   
-Big FM 92.7
-   http://163.172.158.94:8062/;stream.mp3
-   
-Chennai FM Rainbow
-   http://163.172.158.94:8066/;stream.mp3
-
-Radio City Live  91.1
-   http://163.172.158.94:8064/;stream.mp3
-
----
-
-Sooriyan FM 
-  http://104.238.193.114:7077/;stream.mp3
-
-Tamil FM 89.4 - UAE
-   http://31.14.40.149:8000/;stream.mp3
-
-Tamilisai FM - UK
-   http://185.193.112.155:18244/;stream.mp3
-
-Lankasri FM - UK
-   http://media2.lankasri.fm/;stream.mp3
-   
-Yarl FM Radio - Sri Lanka
-   http://s2.voscast.com:9544/;stream.mp3
-   
-Siragugal Radio 
-   http://149.56.147.197:8792/stream
