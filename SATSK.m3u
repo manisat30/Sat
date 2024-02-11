@@ -16,6 +16,13 @@ http://198.144.149.206:8080/DINESH/TNTR/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SK Music TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
 
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/v2/017stv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1705989957.png" group-title="Phoenix Creations",S TV  
+http://stv.sayatech.cloud:1935/stv/stv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1700055329.jpg" group-title="Phoenix Creations",Senthur TV  
+http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="SSCloud",Rainbow TV
 http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 
@@ -23,8 +30,12 @@ http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud", Minnal TV
 https://1cloud.digital/minnaltv/minnalhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://hellophoenix.online/v2/017stv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1705989957.png" group-title="Phoenix Creations",S TV  
-http://stv.sayatech.cloud:1935/stv/stv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8I68-sq1hLelZj5NkltrWXL5tYHqSc3CzCRKxFH43LhIHkuCpv4m8hQUsmb6krDN=w480-h960-rw" group-title="Phoenix Creations",Thendral HD TV
+http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="Phoenix Creations", APS TV
+http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi", OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
@@ -273,14 +284,12 @@ https://1cloud.digital/nilatvsvg/nilatv.m3u8
 
 #EXTM3U - Phoenix Creations
 
-#EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1700055329.jpg" group-title="Phoenix Creations",Senthur TV  
-http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/016runtv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1705901918.png" group-title="Phoenix Creations",RUN TV
 http://runtv.sayatech.cloud:1935/runtv/runtv/playlist.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w240-h480-rw" group-title="Phoenix Creations",NTV
 http://ntv.phoenixcreations.online:1935/ntv/ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8I68-sq1hLelZj5NkltrWXL5tYHqSc3CzCRKxFH43LhIHkuCpv4m8hQUsmb6krDN=w480-h960-rw" group-title="Phoenix Creations",Thendral HD TV
-http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="Phoenix Creations", Aadhavan TV
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/v2/015velantv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1702710142.png" group-title="Phoenix Creations", Velan TV
@@ -289,8 +298,7 @@ http://velantv.phoenixcreations.online:1935/velantv/velantv/playlist.m3u8
 http://khilatv.phoenixcreations.online:1935/khilatv/khilatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRCgRXG/Sky-Mediatv.png" group-title="Phoenix Creations",Sky media TV
 http://skymedia.phoenixcreations.online:1935/skymedia/skymedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="Phoenix Creations", APS TV
-http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1680880721.png" group-title="Phoenix Creations",Top TV
 http://toptv.phoenixcreations.online:1935/toptv/toptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1699189456.png" group-title="Phoenix Creations", OM Tamil TV
