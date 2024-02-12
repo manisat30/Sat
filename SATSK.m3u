@@ -561,6 +561,8 @@ https://singamcloud.in/singamtv/singamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/cgrID27OHeQx_nNKVcFUJdb0iPpYLE5OCZXs1GvkkRrzeYzeHmHZSBIxQMhUR5rA1w=w480-h960-rw" group-title="Singam Cloud",UTV Tamil HD
 http://live.notvstream.in/hls/utv.m3u8
 
+
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/cgrID27OHeQx_nNKVcFUJdb0iPpYLE5OCZXs1GvkkRrzeYzeHmHZSBIxQMhUR5rA1w=w480-h960-rw" group-title="Singam Cloud",Ragam tv
 http://stream.singamcloud.in/ragamtv/ragamtv/index.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/xo3385PT6qrdy2uxYAxOhGd3xqludQDCtJezJ8hp-k19dGb5c4pBqyB8n0RTuGOl6Q=w240-h480-rw" group-title="Singam Cloud",RIO TV 
 http://singamcloud.in/riotv/riotv/index.m3u8
