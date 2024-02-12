@@ -23,19 +23,35 @@ http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud", Minnal TV
 https://1cloud.digital/minnaltv/minnalhd.m3u8
 
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
+http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/v2/017stv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1705989957.png" group-title="Phoenix Creations",S TV  
 http://stv.sayatech.cloud:1935/stv/stv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1700055329.jpg" group-title="Phoenix Creations",Senthur TV  
+http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8I68-sq1hLelZj5NkltrWXL5tYHqSc3CzCRKxFH43LhIHkuCpv4m8hQUsmb6krDN=w480-h960-rw" group-title="Phoenix Creations",Thendral HD TV
+http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="Phoenix Creations", APS TV
+http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi", OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
 
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
-http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
-http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jk1hfps/1664832795509-removebg-preview.png" group-title="1Cloud",SAT.SK AKASH TV 
@@ -65,8 +81,10 @@ https://live.eyetamil.tv/tv/index.m3u8
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="SK",Athavan Tv
-https://telegram-bot-ttl.thirumurthy91.repl.co/athavantv
+https://jr7yv2wqda4v-hls-live.5centscdn.com/athavan/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8?md5=-G-ESxSH7hv7F0VcKRbKaA&expires=1707716322
 
+#EXTINF:-1 tvg-logo = "https://yt3.googleusercontent.com/ytc/AGIKgqOX9ccwq_Fi__whmWhfJQB_1yeONsHoR8pN40hxOQ=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil International", Deepam TV"
+rtmp://95.217.218.87:1935/deepamtvuk/live
 
 #EXTINF:-1 group-title="SK",Tamil vision TV
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
@@ -273,14 +291,12 @@ https://1cloud.digital/nilatvsvg/nilatv.m3u8
 
 #EXTM3U - Phoenix Creations
 
-#EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1700055329.jpg" group-title="Phoenix Creations",Senthur TV  
-http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/016runtv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1705901918.png" group-title="Phoenix Creations",RUN TV
 http://runtv.sayatech.cloud:1935/runtv/runtv/playlist.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/PBXlTGaua0z8KSGfcl5Wlkv2Bkr2eGqCWHVj0POSciXosMmHHNalH9jU8XSv-8-3yTiQ=w240-h480-rw" group-title="Phoenix Creations",NTV
 http://ntv.phoenixcreations.online:1935/ntv/ntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8I68-sq1hLelZj5NkltrWXL5tYHqSc3CzCRKxFH43LhIHkuCpv4m8hQUsmb6krDN=w480-h960-rw" group-title="Phoenix Creations",Thendral HD TV
-http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60G99hb/Aadhavantamil.png" group-title="Phoenix Creations", Aadhavan TV
 http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/v2/015velantv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1702710142.png" group-title="Phoenix Creations", Velan TV
@@ -289,8 +305,7 @@ http://velantv.phoenixcreations.online:1935/velantv/velantv/playlist.m3u8
 http://khilatv.phoenixcreations.online:1935/khilatv/khilatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRCgRXG/Sky-Mediatv.png" group-title="Phoenix Creations",Sky media TV
 http://skymedia.phoenixcreations.online:1935/skymedia/skymedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="Phoenix Creations", APS TV
-http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/phoenixentertainment/001phoenixtv/admin/img/tvchannels/avathar1680880721.png" group-title="Phoenix Creations",Top TV
 http://toptv.phoenixcreations.online:1935/toptv/toptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1699189456.png" group-title="Phoenix Creations", OM Tamil TV
@@ -551,6 +566,8 @@ https://singamcloud.in/singamtv/singamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/cgrID27OHeQx_nNKVcFUJdb0iPpYLE5OCZXs1GvkkRrzeYzeHmHZSBIxQMhUR5rA1w=w480-h960-rw" group-title="Singam Cloud",UTV Tamil HD
 http://live.notvstream.in/hls/utv.m3u8
 
+
+#EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/cgrID27OHeQx_nNKVcFUJdb0iPpYLE5OCZXs1GvkkRrzeYzeHmHZSBIxQMhUR5rA1w=w480-h960-rw" group-title="Singam Cloud",Ragam tv
 http://stream.singamcloud.in/ragamtv/ragamtv/index.m3u8
 #EXTINF:-1 tvg-logo = "https://play-lh.googleusercontent.com/xo3385PT6qrdy2uxYAxOhGd3xqludQDCtJezJ8hp-k19dGb5c4pBqyB8n0RTuGOl6Q=w240-h480-rw" group-title="Singam Cloud",RIO TV 
 http://singamcloud.in/riotv/riotv/index.m3u8
