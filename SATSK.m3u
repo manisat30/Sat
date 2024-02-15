@@ -11,14 +11,10 @@ http://ipcloud.live:8080/nvision/skymusic.m3u8
 
 
 
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" ,CINEMANIA 4K
+http://mag.trexlive.me:80/Michael88/Michael88/1438226
 
 
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_gold.jpg" ,CINEMANIA GOLD 4K
-http://mag.trexlive.me:80/Michael88/Michael88/1438227
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_bollywood.jpg" ,CINEMANIA 4K
-http://mag.trexlive.me:80/Michael88/Michael88/1438228
-#EXTINF:-1 group-title="INDIA" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TBO.jpg" ,TBO
-http://mag.trexlive.me:80/Michael88/Michael88/945549
 
 #EXTINF:-1 group-title="PREMIUM VIP" tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" ,TAMIL 2022
 http://mag.trexlive.me:80/Michael88/Michael88/1024831
