@@ -18,6 +18,12 @@ http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 
+#EXTINF:-1 group-title="SK",Eye Tamil tv
+https://live.eyetamil.tv/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="SK",Analai Express cinema HD
+http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
+
+
 #EXTINF:-1 group-title="TLL Tamil LCO",THARUN MOVIES
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
@@ -39,10 +45,6 @@ http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud",Minnal TV
 https://1cloud.digital/minnaltv/minnalhd.m3u8
 
-#EXTINF:-1 group-title="SK",Eye Tamil tv
-https://live.eyetamil.tv/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="SK",Analai Express cinema HD
-http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil InternationalSK",Tamil vision TV
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
