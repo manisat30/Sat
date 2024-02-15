@@ -8,6 +8,18 @@ https://stream-159.zeno.fm/8hrzqn65pa0uv?zs=-sYbBUKSS7aKVDH_Xbhu6Q
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SK Music TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
 
+
+
+
+#EXTINF:-1 group-title="PREMIUM VIP" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TAMIL.png" ,TAMIL 2022
+http://mag.trexlive.me:80/Michael88/Michael88/1024831
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi",OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
 
