@@ -22,8 +22,7 @@ http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud",Minnal TV
-https://1cloud.digital/minnaltv/minnalhd.m3u8
+
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
@@ -37,6 +36,8 @@ http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8
 http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YkGh2hG/APStv.png" group-title="Phoenix Creations",APS TV
 http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMINNAL-TV.png?alt=media&token=7f4d458c-88df-4929-8978-fbaf511a76b9" group-title="1Cloud",Minnal TV
+https://1cloud.digital/minnaltv/minnalhd.m3u8
 
 #EXTINF:-1 group-title="SK",Eye Tamil tv
 https://live.eyetamil.tv/tv/index.m3u8
