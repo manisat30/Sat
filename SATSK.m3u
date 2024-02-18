@@ -1,5 +1,21 @@
 #EXTM3U The playlist was created in SAT.SK "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/zeetamilhd.jpg" tvg-id="ZeeTamil.in" ,ZEE TAMIL HD
+http://mag.trexlive.me:80/Michael88/Michael88/155876
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/zeetamil.jpg" tvg-id="ZeeTamil.in" ,ZEE TAMIL SD
+http://mag.trexlive.me:80/Michael88/Michael88/155901
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/zeetamil.jpg" tvg-id="ZeeTamil.in" ,ZEE TAMIL
+http://mag.trexlive.me:80/Michael88/Michael88/281862
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-THIRAI.png" ,ZEE THIRAI
+http://mag.trexlive.me:80/Michael88/Michael88/155912
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/suntv.jpg" tvg-id="SunTV.in" ,SUN TV HD
+http://mag.trexlive.me:80/Michael88/Michael88/155880
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/suntv.jpg" tvg-id="SunTV.in" ,SUN TV HD (BP)
+http://mag.trexlive.me:80/Michael88/Michael88/369375
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/SUN-LIFE-TAMIL.jpg" tvg-id="SunLife.in" ,SUN LIFE TAMIL
+http://mag.trexlive.me:80/Michael88/Michael88/155889
+#EXTINF:-1 group-title="TAMIL" tvg-logo="http://logo.protv.cc/picons/logos/sunmusic.png" tvg-id="SunMusic.in" ,SUN MUSIC HD
+http://mag.trexlive.me:80/Michael88/Michael88/155881
 
 
 
