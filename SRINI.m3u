@@ -19,6 +19,10 @@ http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 http://ipcloud.live:8080/yogaatv/yogaatv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD",Kongu TV
+http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="SK",Eye Tamil tv
 https://live.eyetamil.tv/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="SK",Analai Express cinema HD
