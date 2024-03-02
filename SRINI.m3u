@@ -18,6 +18,9 @@ https://stream-159.zeno.fm/8hrzqn65pa0uv?zs=-sYbBUKSS7aKVDH_Xbhu6Q
 http://ipcloud.live:8080/nvision/skymusic.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/wp-17086796969802913656847092632986.png" group-title="Tamilm3u",AJK Movie HD
+http://rott.ridsys.in/riptv/live/stream27/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="SSCloud",Rainbow TV
 http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 
