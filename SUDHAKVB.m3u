@@ -1048,7 +1048,46 @@ https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 
 
 
-#EXTM3U
+
+
+
+#EXTINF:-1,Sony BBC Earth
+http://124.29.225.205:8000/play/a04a/index.m3u8
+#EXTINF:-1,Sony Pix HD
+http://124.29.225.205:8000/play/a04o/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://124.29.225.205:8000/play/a041/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://124.29.225.205:8000/play/a03s/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://124.29.225.205:8000/play/a043/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD
+http://124.29.225.205:8000/play/a042/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://124.29.225.205:8000/play/a04n/index.m3u8
+#EXTINF:-1,Star Movies Select HD
+http://124.29.225.205:8000/play/a046/index.m3u8
+#EXTINF:-1,Star Select 1
+http://124.29.225.205:8000/play/a03z/index.m3u8
+#EXTINF:-1,Star Select 2
+http://124.29.225.205:8000/play/a040/index.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://124.29.225.205:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
+http://176.119.29.52/live.ts?channelId=275&Servertvhub&deviceMac=00:1A:79:2E:F0:59&chal-ja-bsdk-Go-home-eat-sleep-and-get-some-rest
+
+
+
+
+
+
+
+
+
+
+#EXTM3U   RADIO
 #EXTINF:-1,Radio Live SN HD
 http://51.79.87.236:7188/1?type=http
 #EXTINF:-1,Hello Fm 106.4 Chennai HD
