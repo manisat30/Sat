@@ -26,8 +26,7 @@ https://stream.sscloud7.com/hls/suriyantv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL LOCAL HD",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK MOVIES
-http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tvchennallive.m3u8
+
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi",OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/wp-17086796969802913656847092632986.png" group-title="Tamilm3u",AJK Movie HD
@@ -48,6 +47,8 @@ https://ipcloud.live/deltatv/deltahd.m3u8
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK MOVIES
+http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tvchennallive.m3u8
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/v2/017stv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1705989957.png" group-title="Phoenix Creations",S TV
 http://stv.sayatech.cloud:1935/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1700055329.jpg" group-title="Phoenix Creations",Senthur TV
