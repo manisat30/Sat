@@ -52,9 +52,6 @@ http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 #EXTINF:-1 group-title="Tamil InternationalSK",Tamil 3 TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo = "https://yt3.googleusercontent.com/ytc/AGIKgqOX9ccwq_Fi__whmWhfJQB_1yeONsHoR8pN40hxOQ=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil International", Deepam TV"
-rtmp://95.217.218.87:1935/deepamtvuk/live
-
 
 #EXTINF:-1 group-title="SK",aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
