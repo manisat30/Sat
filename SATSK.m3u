@@ -49,7 +49,7 @@ http://ipcloud.live:8080/leotv/leotvhd.m3u8
 http://ipcloud.live:8080/duraitv/live.m3u8
 #EXTINF:-1 group-title="Tamil InternationalSK",Tamil vision TV
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:-1 group-title="Tamil InternationalSK",Deepam TV"Tamil 3 TV
+#EXTINF:-1 group-title="Tamil InternationalSK",Tamil 3 TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="SK",aus Tamil
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
