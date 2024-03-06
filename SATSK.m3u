@@ -7,7 +7,10 @@ https://stream-159.zeno.fm/8hrzqn65pa0uv?zs=-sYbBUKSS7aKVDH_Xbhu6Q
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="TLL LOCAL HD",JJ NEWS HD
 http://live.singamcloud.in/jjnewstamil/jjnewstamil/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
+https://server.iptelevisiontv.com/hls/tamilpr.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
+http://rott.ridsys.in/riptv/live/stream22/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SKy Music TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
@@ -574,12 +577,9 @@ https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b37529050
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="Tamil International",Analai Express cinema HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rClXavSSFvGMdF3bQs2FsluNnof_kTYDpGRD2uJsqn-_tNK2HQLnp1dRhZw7aah8rw4w=w240-h480-rwhttps://yt3.ggpht.com/a/AATXAJx5Cms80nWmX9-Jc0V-_9cQzimmwQ47ugXs0Q=s900-c-k-c0xffffffff-no-rj-mohttps://play-lh.googleusercontent.com/nC4Ep3fhQO0_JYYg0WxuLpGJX29bmtk6rans-MMEH2bNd-E3J-GRUrJpdxChIsXU2A=w240-h480-rw" group-title="Tamil InternationalTamil InternationalDevotional",Moon TVPeppers TVBhadra TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rClXavSSFvGMdF3bQs2FsluNnof_kTYDpGRD2uJsqn-_tNK2HQLnp1dRhZw7aah8rw4w=w240-h480-rwhttps://yt3.ggpht.com/a/AATXAJx5Cms80nWmX9-Jc0V-_9cQzimmwQ47ugXs0Q=s900-c-k-c0xffffffff-no-rj-mohttps://play-lh.googleusercontent.com/nC4Ep3fhQO0_JYYg0WxuLpGJX29bmtk6rans-MMEH2bNd-E3J-GRUrJpdxChIsXU2A=w240-h480-rw" group-title="Tamil InternationalTamil InternationalDevotional",Bhadra TV
 http://ipcloud.live:8080/sdevtv/bhadratv.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
-https://server.iptelevisiontv.com/hls/tamilpr.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
-http://rott.ridsys.in/riptv/live/stream22/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1221547118721096622857530.png" group-title="Devotional",Arulvakku Tv
 http://rott.ridsys.in/riptv/live/stream23/index.m3u8
 #EXTINF:-1 group-title="Testing",G TV
