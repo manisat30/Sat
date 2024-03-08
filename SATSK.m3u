@@ -19,7 +19,17 @@ http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 https://server.iptelevisiontv.com/hls/tamilpr.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
 http://rott.ridsys.in/riptv/live/stream22/index.m3u8
- 
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", ZeeTamil News HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942450/ei/UlLrZbT_K4-ZsfIP_4C8yAk/ip/13.83.123.124/id/hf1_WPbLm4o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1JiDVTA06j1bQ4xmeK-pJwE0B9UrjXQWLxsWM3qjQo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350304/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKL1y8nM1Qm8YOl4wQkJ8iGubTIj4yGmqzsLP4UQpqHoAiEAzXpJ167Wk9cTz0yIKq4uPSv5Uhhwj3372kuwhLzllVw%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942451/ei/U1LrZcrbMICKvPEPwpGU2Ac/ip/13.83.123.124/id/9z7uy4qxxQo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2LwqLng37Y6vVRP0dVAG5abVZ02M6UOmJvf35Ssf5k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350304/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgHgzEfipO8AWRGyYY-hzEDKRJoW5stdrUJ0WRdc6f9eACIQCE9l0e8ifBrBamanrrhfd0j8FTumFvYv1eLtPE9gEQAg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", SunNews HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942442/ei/SlLrZZyJHf6YsfIPveGD-AI/ip/13.83.123.124/id/9M02G5c6x6w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw8PHZsd2H7RHRvaJNy6NdZZVjCeIVcpnAWUV8nk3dk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350304/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKV5-nGT_8a8rjmZ2Zkz_AR96OVou1ks1ZFYyO_ISDSlAiEA5sr1ULgYl7cEVapSppkXnj9JWlZz1wKwu_RYsaM2zqQ%3D/file/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SKy Music TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="TLL MUSIC",SK Southern Tamil TV
@@ -1044,9 +1054,6 @@ https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/play
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Info - Must Read" tvg-logo="https://i.imgur.com/aESqPMs.png" tvg-id="", Playlist is for Free
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
-
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
 https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
@@ -1100,7 +1107,7 @@ https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa
 https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/1TvFl8x.jpg" tvg-id="", News7
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUaiK4V0hcvNph6gkwuUHqRE2Pbc0QB-wf_5WfUuegDTYHXTB5CLcaW8M&s=10" tvg-id="", News7
 https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 
 
@@ -1108,10 +1115,8 @@ https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
 
 
 
-EXTM3U
+#EXTM3U
 
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/C8DXbt1.png" tvg-id="", BFM Grand Lille (720p)
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7
@@ -1159,8 +1164,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942447/ei/T
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942448/ei/UFLrZZ-lCoiIsfIP0KCniAY/ip/13.83.123.124/id/XOCUeiExfPE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8k5AJK1PR0hbcBFM-R5iZO-s5KbOlEKPWDeoA86wKs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350304/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgX2cFH3jaIIzTce2Fyj25J3SECU2uWJRdVkI9GxOFybECIQDN7yC4t_Gh4t1bZUcL_4U85YqbksuhPANuJ4SLyy7iLA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News
-https://raw.githubusercontent.com/naveenland4/YouTube_to_m3u/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942450/ei/UlLrZbT_K4-ZsfIP_4C8yAk/ip/13.83.123.124/id/hf1_WPbLm4o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1JiDVTA06j1bQ4xmeK-pJwE0B9UrjXQWLxsWM3qjQo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350304/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKL1y8nM1Qm8YOl4wQkJ8iGubTIj4yGmqzsLP4UQpqHoAiEAzXpJ167Wk9cTz0yIKq4uPSv5Uhhwj3372kuwhLzllVw%3D/file/index.m3u8
