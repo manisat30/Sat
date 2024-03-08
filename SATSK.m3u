@@ -15,6 +15,9 @@ https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_t
 #EXTINF:-1 group-title="bhakthi",Swasthik
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA HD
+https://edge.taghtia.com/sa/7.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
 https://server.iptelevisiontv.com/hls/tamilpr.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
