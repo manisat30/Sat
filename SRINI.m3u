@@ -85,19 +85,9 @@ https://1cloud.digital/minnaltv/minnalhd.m3u8
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo = "https://yt3.googleusercontent.com/ytc/AGIKgqOX9ccwq_Fi__whmWhfJQB_1yeONsHoR8pN40hxOQ=s900-c-k-c0x00ffffff-no-rj" group-title="Tamil International", Deepam TV"
-rtmp://95.217.218.87:1935/deepamtvuk/live
-
-#EXTINF:-1 group-title="SK",Tamil 3 TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:-1 group-title="SK",aus Tamil
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logbbbbbo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Tamil Streams Rasi",Rasi TV
-http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 
 
 
