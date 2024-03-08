@@ -5,8 +5,16 @@ https://stream.zeno.fm/22db1xmde2zuv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="Singam Cloud",SAT.SK RADIO-2
 https://stream-159.zeno.fm/8hrzqn65pa0uv?zs=-sYbBUKSS7aKVDH_Xbhu6Q
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="TLL LOCAL HD",JJ NEWS HD
-http://live.singamcloud.in/jjnewstamil/jjnewstamil/index.m3u8
+
+#EXTINF:-1 group-title="sports",JioCricket
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test05day02080324/master.m3u8
+
+
+
+
+#EXTINF:-1 group-title="bhakthi",Swasthik
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
 https://server.iptelevisiontv.com/hls/tamilpr.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
@@ -613,8 +621,9 @@ http://live.singamcloud.in/visakatv/visakatv/index.m3u8
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="http://sivantv.com/wp-content/uploads/2017/10/Logo-site.png" group-title="local",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:-1 group-title="bhakthi",Swasthik
-http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="TLL LOCAL HD",JJ NEWS HD
+http://live.singamcloud.in/jjnewstamil/jjnewstamil/index.m3u8
+
 #EXTINF:-1 group-title="News",Samugam
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="locl",MONTAMIL HD
