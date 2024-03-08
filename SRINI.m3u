@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="sports",JioCricket
+#EXTINF:-1 group-title="sports",IND_JioCricket
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test05day02080324/master.m3u8
-
-
+#EXTINF:-1 group-title="sports",WPL_JioCricket
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_wpl_s1_m1080324/master.m3u8
 
 
 
