@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="sports",JioCricket
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test05day02080324/master.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="TLL LOCAL HD",JJ NEWS HD
 http://live.singamcloud.in/jjnewstamil/jjnewstamil/index.m3u8
 #EXTINF:-1 group-title="News",Sivan tv
