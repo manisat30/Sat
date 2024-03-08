@@ -19,7 +19,7 @@ http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 https://server.iptelevisiontv.com/hls/tamilpr.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
 http://rott.ridsys.in/riptv/live/stream22/index.m3u8
-#EXTINF:-1 tvg-id="bhakthi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU" group-title="Tamil;Local",Vinmeenj
+#EXTINF:-1 tvg-id="bhakthi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU" group-title="Tamil;Local",VinmeenMusic
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 
