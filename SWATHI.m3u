@@ -14,11 +14,13 @@ https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_t
 
 #EXTINF:-1 group-title="bhakthi",Swasthik
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
 https://server.iptelevisiontv.com/hls/tamilpr.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
 http://rott.ridsys.in/riptv/live/stream22/index.m3u8
+#EXTINF:-1 tvg-id="bhakthi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU" group-title="Tamil;Local",Vinmeenj
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", ZeeTamil News HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709942450/ei/UlLrZbT_K4-ZsfIP_4C8yAk/ip/13.83.123.124/id/hf1_WPbLm4o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1JiDVTA06j1bQ4xmeK-pJwE0B9UrjXQWLxsWM3qjQo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350304/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKL1y8nM1Qm8YOl4wQkJ8iGubTIj4yGmqzsLP4UQpqHoAiEAzXpJ167Wk9cTz0yIKq4uPSv5Uhhwj3372kuwhLzllVw%3D/file/index.m3u8
