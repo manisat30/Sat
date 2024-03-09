@@ -15,8 +15,6 @@ https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_t
 #EXTINF:-1 group-title="bhakthi",Swasthik
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/1TvFl8x.jpg" tvg-id="", Britain Tamil Bhakthi
-https://www.streamwell.in/play/btc
 
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA HD
 https://edge.taghtia.com/sa/7.m3u8
@@ -65,6 +63,8 @@ https://1cloud.digital/onetv/onehollywood.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Streams Rasi",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeadYKoF207QFRZ6CiCS1B0qHZ0SupE88AhdwLqJ15GVVhlJv2N79lWEs&s=10" tvg-id="", THALAA TV
+https://www.yupptv.com/online-tv/thalaa-tv/live/embed
 
 
 
