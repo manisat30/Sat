@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="sports",IND_JioCricket
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test05day02080324/master.m3u8
-#EXTINF:-1 group-title="sports",WPL_JioCricket
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_wpl_s1_m1080324/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3C5u0CffK0kC2V0l3sWHGuY6HKvyvegH81gzh1GGP_L6xazn0kPQlHJdSUQY5dFXigU=w240-h480-rw" group-title="TLL LOCAL HD",JJ NEWS HD
@@ -46,9 +41,6 @@ https://1cloud.digital/onetv/onemovies.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="Tamil Streams Rasi", One Hollywood HD
 https://1cloud.digital/onetv/onehollywood.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Streams Rasi",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/G2nh5y27BxL7cAbC7aIwUWl4ot-miOz_Rao4Xr1cxDAK7_ZBRg10J9ZRnhANMkODMA=w240-h480-rw" group-title="SSCloud",7star new TV
 http://7starcloud.com:1935/live/7star/playlist.m3u8
@@ -84,10 +76,6 @@ http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8
 https://1cloud.digital/minnaltv/minnalhd.m3u8
 
 
-#EXTINF:-1 group-title="Tamil InternationalSK",Tamil vision TV
-http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-
-
 
 
 
@@ -101,8 +89,7 @@ http://ipcloud.live:8080/asdtv/asd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="ÃƒÆ’Ã†â€™ ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚ÂªÃƒÆ’Ã†â€™ ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¸ÃƒÆ’Ã†â€™ ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â®ÃƒÆ’Ã†â€™ ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¯ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â",MONTAMIL HD
-http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FDELTA-TV.png?alt=media&token=e6e087c6-b20c-4b99-b79d-5d69e2f1eb4a" group-title="1Cloud",Delta TV
 https://ipcloud.live/deltatv/deltahd.m3u8
 #EXTINF:-1 tvg-logo="https://singamcloud.com/uploads/tv_image/karthi-tv.jpeg" group-title="1Cloud",Karthick TV
