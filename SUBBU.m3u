@@ -6,11 +6,6 @@ https://stream.zeno.fm/22db1xmde2zuv
 https://stream-159.zeno.fm/8hrzqn65pa0uv?zs=-sYbBUKSS7aKVDH_Xbhu6Q
 
 
-#EXTINF:-1 group-title="sports",IND_JioCricket
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099011/hd_akamai_androidmob_avc_tam_indvseng_test05day02080324/master.m3u8
-
-#EXTINF:-1 group-title="sports",WPL_JioCricket
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_wpl_s1_m1080324/master.m3u8
 
 #EXTINF:-1 group-title="bhakthi",Swasthik
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
@@ -60,16 +55,32 @@ https://1cloud.digital/onetv/onemovies.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="Tamil Streams Rasi", One Hollywood HD
 https://1cloud.digital/onetv/onehollywood.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/22d27c42b8520f313cecda20686f9733.png" group-title="Tamil Streams Rasi",Rasi Hollywood
-http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/playlist.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeadYKoF207QFRZ6CiCS1B0qHZ0SupE88AhdwLqJ15GVVhlJv2N79lWEs&s=10" tvg-id="", THALAA TV
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
+rtmp://rasinetworks.in/rasinetworks/rasitv
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasitamil
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasimusic
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
+rtmp://rasinetworks.in/rasinetworks/rasimovies
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasihollywood
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI Comedy
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasicomedy 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI Classic
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasiclassic
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
 
 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/wp-17086796969802913656847092632986.png" group-title="Tamilm3u",AJK Movie HD
-http://rott.ridsys.in/riptv/live/stream27/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="SSCloud",Rainbow TV
 http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 
