@@ -67,7 +67,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
 rtmp://rasinetworks.in/rasinetworks/rasitv
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
-rtmp://s2.rasinetworks.in:1935/rasinetworks/rasitamil
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
 rtmp://s2.rasinetworks.in:1935/rasinetworks/rasimusic
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
