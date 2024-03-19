@@ -7,39 +7,18 @@ http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", ZeeTamil News HD
-https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa HD
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", SunNews HD
-https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
-
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SKy Music TV
-http://ipcloud.live:8080/nvision/skymusic.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JRWl6SzuOta1_blizXv4kR-Yl02ZuivGw9IvVxjMic66hBi9D6oHf9x1VbDBq2PzXQ=w240-h480-rw" group-title="TLL MUSIC",SK Southern Tamil TV
-https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SKy Music TV http://ipcloud.live:8080/nvision/skymusic.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="Tamil International",4K Sooriyan TV
-https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-104/5pwp-9xg9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="Tamil International",4K Sooriyan 2
-https://demo.mediacp.net:19360/nginxrelay/nginxrelay.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YdgsDHt/Suriyantv.png" group-title="SSCloud",Suriyan TV
-https://stream.sscloud7.com/hls/suriyantv.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL LOCAL HD",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi",OneMovies TV
-https://1cloud.digital/onetv/onemovies.m3u8
-
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FoneHollywoodHd.jpg?alt=media&token=0c552991-77ad-42de-9e4c-8c6f4847285e" group-title="Tamil Streams Rasi", One Hollywood HD
-https://1cloud.digital/onetv/onehollywood.m3u8
 
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeadYKoF207QFRZ6CiCS1B0qHZ0SupE88AhdwLqJ15GVVhlJv2N79lWEs&s=10" tvg-id="", THALAA TV
@@ -52,8 +31,7 @@ http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 
 #EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="Tamil International",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
@@ -63,14 +41,6 @@ https://live.eyetamil.tv/tv/index.m3u8
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",THARUN MOVIES
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FDELTA-TV.png?alt=media&token=e6e087c6-b20c-4b99-b79d-5d69e2f1eb4a" group-title="1Cloud",Delta TV
-https://ipcloud.live/deltatv/deltahd.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK MOVIES
-http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tvchennallive.m3u8
-
-
 
 
 
@@ -564,7 +534,6 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="Testing",Visaka TV
 http://live.singamcloud.in/visakatv/visakatv/index.m3u8
-
 
 
 
