@@ -1,3 +1,24 @@
+#EXTM3U
+#EXTINF:-1,MakkahLive1
+http://m.live.net.sa:1935/live/quran/.m3u8
+ 
+#EXTINF:-1,MakkahLive2
+http://m.live.net.sa:1935/live/sunnah/.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="all" , ibc kids https://tx1.ibctamil.tv/CDN_IBC_Kids/index.m3u8 
+
+#EXTINF:-1 group-title="all" , ibc tamil https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8 
+
+#EXTINF:-1 group-title="all" , ibc canada https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8 
+
+
+
+
+
 AnuTV http://139.99.96.93:1935/anutv/anutv/mono.m3u8
 
 vannam http://remoteiptv.in:1935/vannamtv/vannamtv/playlist.m3u8
