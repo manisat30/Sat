@@ -1,5 +1,13 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
+#EXTINF:-1,Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://124.29.225.205:8000/play/a03m/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-1
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1230324/master.m3u8
 
@@ -1180,8 +1188,6 @@ http://124.29.225.205:8000/play/a040/index.m3u8
 http://124.29.225.205:8000/play/a045/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://124.29.225.205:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
-http://176.119.29.52/live.ts?channelId=275&Servertvhub&deviceMac=00:1A:79:2E:F0:59&chal-ja-bsdk-Go-home-eat-sleep-and-get-some-rest
 
 
 
