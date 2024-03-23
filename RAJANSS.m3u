@@ -1191,6 +1191,71 @@ http://124.29.225.205:8000/play/a03m/index.m3u8
 
 
 
+#EXTINF:-1,&flix HD
+http://124.29.225.205:8000/play/a03y/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://124.29.225.205:8000/play/a01z/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://124.29.225.205:8000/play/a04w/index.m3u8
+#EXTINF:-1,Comedy Central HD SURFLIX
+http://124.29.225.205:8000/play/a055/index.m3u8
+#EXTINF:-1,Discovery HD
+http://124.29.225.205:8000/play/a04m/index.m3u8
+#EXTINF:-1,Eurosports HD
+http://124.29.225.205:8000/play/a04t/index.m3u8
+#EXTINF:-1,FX HD
+http://124.29.225.205:8000/play/a056/index.m3u8
+#EXTINF:-1,History HD
+http://124.29.225.205:8000/play/a04b/index.m3u8
+#EXTINF:-1,MN+ HD
+http://124.29.225.205:8000/play/a048/index.m3u8
+#EXTINF:-1,MNX HD
+http://124.29.225.205:8000/play/a04v/index.m3u8
+#EXTINF:-1,Movies Now HD
+http://124.29.225.205:8000/play/a04y/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://124.29.225.205:8000/play/a04c/index.m3u8
+#EXTINF:-1,Sky Golf HD
+http://124.29.225.205:8000/play/a01s/index.m3u8
+#EXTINF:-1,Sony BBC Earth
+http://124.29.225.205:8000/play/a04a/index.m3u8
+#EXTINF:-1,Sony Pix HD
+http://124.29.225.205:8000/play/a04o/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://124.29.225.205:8000/play/a041/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://124.29.225.205:8000/play/a03s/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://124.29.225.205:8000/play/a043/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD
+http://124.29.225.205:8000/play/a042/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://124.29.225.205:8000/play/a04n/index.m3u8
+#EXTINF:-1,Star Movies Select HD
+http://124.29.225.205:8000/play/a046/index.m3u8
+#EXTINF:-1,Star Select 1 
+http://124.29.225.205:8000/play/a03z/index.m3u8
+#EXTINF:-1,Star Select 2
+http://124.29.225.205:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="star.in",Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://124.29.225.205:8000/play/a03m/index.m3u8
+#EXTINF:-1,TLC
+http://124.29.225.205:8000/play/a047/index.m3u8
+#EXTINF:-1,Wild
+http://124.29.225.205:8000/play/a044/index.m3u8
+#EXTINF:-1,nick HD
+http://124.29.225.205:8000/play/a03r/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
