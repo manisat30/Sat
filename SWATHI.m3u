@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-1
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1230324/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-1
+https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1230324/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-2
 https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmob_avc_cam05_ipl_s1_m1230324/master.m3u
 
