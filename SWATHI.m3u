@@ -1,6 +1,6 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-1
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-0
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1230324/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-1
@@ -13,10 +13,10 @@ https://prod-sports-multiangle-gm.jiocinema.com/hls/live/2109670/hd_akamai_iosmo
 https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-4
-http://starshare.live:8080/live/Sylvia/Sylvia/303597.ts
+http://xtv.ooo:8080/live/check5732/check12092/167574.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-5
-http://starshare.live:8080/live/Sylvia/Sylvia/303593.ts
+http://xtv.ooo:8080/live/check5732/check12092/167574.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-6
 http://starshare.live:8080/live/Sylvia/Sylvia/303594.ts
