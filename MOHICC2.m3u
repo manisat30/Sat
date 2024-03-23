@@ -1,10 +1,21 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL 4K CRICKET-1
-https://prod-sports-south-gm.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1220324/master.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://124.29.225.205:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-2
-https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1220324/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/9722.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/303590.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",IPL  Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/303591.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-3
 https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
@@ -33,7 +44,7 @@ http://starshare.live:8080/live/Sylvia/Sylvia/303586.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK REBEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK VITHAIKARAN
 http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK REBEL
@@ -1177,8 +1188,71 @@ http://124.29.225.205:8000/play/a040/index.m3u8
 http://124.29.225.205:8000/play/a045/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
 http://124.29.225.205:8000/play/a03m/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Sports_Tamil.png/revision/latest/scale-to-width-down/340?cb=20170728072716" group-title="CRICKET",CRI: STAR SPORTS TAMIL 1 HD
-http://176.119.29.52/live.ts?channelId=275&Servertvhub&deviceMac=00:1A:79:2E:F0:59&chal-ja-bsdk-Go-home-eat-sleep-and-get-some-rest
+
+
+
+#EXTINF:-1,&flix HD
+http://124.29.225.205:8000/play/a03y/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://124.29.225.205:8000/play/a01z/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://124.29.225.205:8000/play/a04w/index.m3u8
+#EXTINF:-1,Comedy Central HD SURFLIX
+http://124.29.225.205:8000/play/a055/index.m3u8
+#EXTINF:-1,Discovery HD
+http://124.29.225.205:8000/play/a04m/index.m3u8
+#EXTINF:-1,Eurosports HD
+http://124.29.225.205:8000/play/a04t/index.m3u8
+#EXTINF:-1,FX HD
+http://124.29.225.205:8000/play/a056/index.m3u8
+#EXTINF:-1,History HD
+http://124.29.225.205:8000/play/a04b/index.m3u8
+#EXTINF:-1,MN+ HD
+http://124.29.225.205:8000/play/a048/index.m3u8
+#EXTINF:-1,MNX HD
+http://124.29.225.205:8000/play/a04v/index.m3u8
+#EXTINF:-1,Movies Now HD
+http://124.29.225.205:8000/play/a04y/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://124.29.225.205:8000/play/a04c/index.m3u8
+#EXTINF:-1,Sky Golf HD
+http://124.29.225.205:8000/play/a01s/index.m3u8
+#EXTINF:-1,Sony BBC Earth
+http://124.29.225.205:8000/play/a04a/index.m3u8
+#EXTINF:-1,Sony Pix HD
+http://124.29.225.205:8000/play/a04o/index.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://124.29.225.205:8000/play/a041/index.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://124.29.225.205:8000/play/a03s/index.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://124.29.225.205:8000/play/a043/index.m3u8
+#EXTINF:-1,Sony Ten 5 HD
+http://124.29.225.205:8000/play/a042/index.m3u8
+#EXTINF:-1,Star Movies HD
+http://124.29.225.205:8000/play/a04n/index.m3u8
+#EXTINF:-1,Star Movies Select HD
+http://124.29.225.205:8000/play/a046/index.m3u8
+#EXTINF:-1,Star Select 1 
+http://124.29.225.205:8000/play/a03z/index.m3u8
+#EXTINF:-1,Star Select 2
+http://124.29.225.205:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="star.in",Star Sports 1 HD
+http://124.29.225.205:8000/play/a045/index.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://124.29.225.205:8000/play/a03m/index.m3u8
+#EXTINF:-1,TLC
+http://124.29.225.205:8000/play/a047/index.m3u8
+#EXTINF:-1,Wild
+http://124.29.225.205:8000/play/a044/index.m3u8
+#EXTINF:-1,nick HD
+http://124.29.225.205:8000/play/a03r/index.m3u8
+
+
+
+
+
+
 
 
 
