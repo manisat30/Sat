@@ -110,6 +110,24 @@ https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
 https://stream.sscloud7.com/hls/suriyantv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="SSCloud",Rainbow TV
+http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
+
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK MOVIES
+http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tamilboxoffice.m3u8
+
+#EXTINF:-1 group-title="TLL Tamil LCO",THARUN MOVIES
+http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_11/5a073831cc827_MovieLOGO.png.2d7cf9d452156a029c974795c8f3dfbd.png" group-title="Tamil Streams Rasi",OneMovies TV
 https://1cloud.digital/onetv/onemovies.m3u8
 
@@ -123,13 +141,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="SSCloud",Rainbow TV
-http://server.sscloud7.in/live/rainbowhd/playlist.m3u8
 
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV1
-http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1 group-title="TLL LOCAL HD",SRI KRISHNA TV2
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="Tamil International",EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
@@ -137,12 +149,6 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 https://live.eyetamil.tv/tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png" group-title="SK",Analai Express cinema HD
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",THARUN MOVIES
-http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK MOVIES
-http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tamilboxoffice.m3u8
 
 
 
