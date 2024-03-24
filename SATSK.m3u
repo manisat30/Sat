@@ -99,7 +99,8 @@ http://xtv.ooo:8080/live/check5732/check12092/244572.ts
 #EXTINF:-1,K HD
 http://xtv.ooo:8080/live/check5732/check12092/244555.ts
 
-#EXTINF:-1,K HD http://watchindia.net:8880/live/24787/85016/845.ts
+#EXTINF:-1,K HD
+http://watchindia.net:8880/live/24787/85016/845.ts
 
 #EXTINF:-1,SUN MUSIC  HD
 http://xtv.ooo:8080/live/check5732/check12092/244554.ts
