@@ -95,6 +95,11 @@ http://xtv.ooo:8080/live/check5732/check12092/244523.ts
 #EXTINF:-1,JAYA HD 
 http://xtv.ooo:8080/live/check5732/check12092/244572.ts
 
+#EXTINF:-1,JAYA HD 
+http://watchindia.net:8880/live/98697/23119/851.ts
+
+#EXTINF:-1,J MOVIE 
+http://watchindia.net:8880/live/98697/23119/849.ts
 
 #EXTINF:-1,K HD
 http://xtv.ooo:8080/live/check5732/check12092/244555.ts
@@ -110,6 +115,9 @@ http://watchindia.net:8880/live/98697/23119/844.ts
 
 #EXTINF:-1,COLORS HD
 http://xtv.ooo:8080/live/check5732/check12092/244552.ts
+
+#EXTINF:-1,COLORS HD
+http://watchindia.net:8880/live/98697/23119/2083.ts
 
 #EXTINF:-1,SUN LIFE
 http://watchindia.net:8880/live/98697/23119/847.ts
