@@ -103,7 +103,7 @@ https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/play
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="Tamil International",4K Sooriyan TV
-https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-145/8xi4-iyac/playlist.m3u8
+https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YdgsDHt/Suriyantv.png" group-title="SSCloud",Suriyan TV
@@ -119,25 +119,6 @@ https://1cloud.digital/onetv/onehollywood.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeadYKoF207QFRZ6CiCS1B0qHZ0SupE88AhdwLqJ15GVVhlJv2N79lWEs&s=10" tvg-id="", THALAA TV
 https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
-rtmp://rasinetworks.in/rasinetworks/rasitv
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
-rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
-rtmp://s2.rasinetworks.in:1935/rasinetworks/rasimusic
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
-rtmp://rasinetworks.in/rasinetworks/rasimovies
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
-rtmp://s1.rasinetworks.in:1935/rasinetworks/rasihollywood
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI Comedy
-rtmp://s2.rasinetworks.in:1935/rasinetworks/rasicomedy 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI Classic
-rtmp://s2.rasinetworks.in:1935/rasinetworks/rasiclassic
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
-rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
-
 
 
 
@@ -158,12 +139,10 @@ https://live.eyetamil.tv/tv/index.m3u8
 http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",THARUN MOVIES
 http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FDELTA-TV.png?alt=media&token=e6e087c6-b20c-4b99-b79d-5d69e2f1eb4a" group-title="1Cloud",Delta TV
-https://ipcloud.live/deltatv/deltahd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK MOVIES
-http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tvchennallive.m3u8
+http://protech.tamilboxoffice.online:8080/tamilboxofficeapp/tamilboxoffice.m3u8
 
 
 
@@ -206,6 +185,42 @@ https://95.217.218.87/deepamtvukhls/live.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TV.png?alt=media&token=5033fdb8-69d0-4682-9a52-1657a4e27736" group-title="1Cloud",CTN TV
+https://ipcloud.live/ctn/ctn.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TAMIL.png?alt=media&token=e8639c32-2db2-4500-8e9c-a6e575595205" group-title="1Cloud",CTN Tamil TV
+https://ipcloud.live/ctn/tamil.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" group-title="1Cloud",CTN Sirippu
+https://ipcloud.live/ctn/sirippu.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-NXT.png?alt=media&token=e91ceb37-54df-49f3-9b05-692f5be29993" group-title="1Cloud",CTN NXT TV
+https://ipcloud.live/ctn/ctnnxt.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-ARASU-TV.png?alt=media&token=b67aef36-5bf8-4259-8586-f6d78e3965b6" group-title="1Cloud",CTN Arasu TV
+https://ipcloud.live/ctn/arasutv.m3u8
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
+rtmp://rasinetworks.in/rasinetworks/rasitv
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasimusic
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
+rtmp://rasinetworks.in/rasinetworks/rasimovies
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasihollywood
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI Comedy
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasicomedy 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI Classic
+rtmp://s2.rasinetworks.in:1935/rasinetworks/rasiclassic
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+rtmp://s1.rasinetworks.in:1935/rasinetworks/rasitamil
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-755775.pnghttps://tataprime.files.wordpress.com/2024/02/20240221_2149521214943703005540160.jpg" group-title="Tamilm3uTamilm3u",JSP TvTTV TV
 http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR
@@ -215,10 +230,8 @@ http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.FOA1lPQnKwUgGOmiywvo1gHaHa&pid=Api&P=0&h=180" group-title="Tamilm3u",kanchi Media TV
 http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
-#EXTINF:-1 tvg-logo="https://s5files.mobeasy.com/static/u/1392054/file-1392054-524221.jpeg" group-title="Tamilm3u",Apple Tv
-http://rott.ridsys.in/riptv/live/stream16/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FDELTA-TV.png?alt=media&token=e6e087c6-b20c-4b99-b79d-5d69e2f1eb4a" group-title="1Cloud",Delta TV
-https://ipcloud.live/deltatv/deltahd.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://singamcloud.com/uploads/tv_image/karthi-tv.jpeg" group-title="1Cloud",Karthick TV
 http://ipcloud.live:8080/karthick/karthicktv.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2FASD-CHANNEL.png?alt=media&token=84a1b87d-4b83-45b1-adce-2a513f76ac27" group-title="1Cloud",ASD TV
@@ -251,16 +264,8 @@ https://ipcloud.live/mtv/menhd.m3u8
 http://ipcloud.live:8080/yogaatv/yogaatv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IeIaCvqJwuinzGQUFhY18PPxQip0JmPoRJ3_jy11b1pkB9ztitJYpWGgLNEk8VLfd6I=w240-h480-rw" group-title="1Cloud",Velur TV
 https://1cloud.digital/bass/velurtv.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TV.png?alt=media&token=5033fdb8-69d0-4682-9a52-1657a4e27736" group-title="1Cloud",CTN TV
-https://ipcloud.live/ctn/ctn.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-TAMIL.png?alt=media&token=e8639c32-2db2-4500-8e9c-a6e575595205" group-title="1Cloud",CTN Tamil TV
-https://ipcloud.live/ctn/tamil.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-SIRIPPU.png?alt=media&token=945fdfe6-2d99-479f-a12e-831596646623" group-title="1Cloud",CTN Sirippu
-https://ipcloud.live/ctn/sirippu.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-NXT.png?alt=media&token=e91ceb37-54df-49f3-9b05-692f5be29993" group-title="1Cloud",CTN NXT TV
-https://ipcloud.live/ctn/ctnnxt.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-ARASU-TV.png?alt=media&token=b67aef36-5bf8-4259-8586-f6d78e3965b6" group-title="1Cloud",CTN Arasu TV
-https://ipcloud.live/ctn/arasutv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FJRP-TV.png?alt=media&token=d526a2c3-f332-4e62-94ea-94f5c90f7273" group-title="1Cloud",JRP TV
 https://ipcloud.live/jrptv/jrptv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1lTZUe4WeT_1GcTAFvdAUihFkR3BFgANpA9-eGueZaAfyq8ecyiJo5mh2lkLAa-b84A=w240-h480-rw" group-title="1Cloud",Eagle TV
