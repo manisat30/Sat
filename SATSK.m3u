@@ -9,14 +9,13 @@ http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA SD
 http://162.212.178.70:4442/bysid/8.ts
-
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
 https://server.iptelevisiontv.com/hls/tamilpr.m3u8
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
 http://rott.ridsys.in/riptv/live/stream22/index.m3u8
 #EXTINF:-1 tvg-id="bhakthi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU" group-title="Tamil;Local",VinmeenMusic
 http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
-
 
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", ZeeTamil News HD
