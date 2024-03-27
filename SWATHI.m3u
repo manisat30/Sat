@@ -1,5 +1,40 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
+
+
+#EXTINF:-1 group-title="bhakthi",Swasthik
+http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
+http://notvstream.in/jothitv/jothitv.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA SD
+http://162.212.178.70:4442/bysid/8.ts
+#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
+https://server.iptelevisiontv.com/hls/tamilpr.m3u8
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
+http://rott.ridsys.in/riptv/live/stream22/index.m3u8
+#EXTINF:-1 tvg-id="bhakthi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU" group-title="Tamil;Local",VinmeenMusic
+http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
+
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", ZeeTamil News HD
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa HD
+https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", SunNews HD
+https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="Temp",Polimer News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+
+
+
+
 #EXTINF:-1,Star Sports 1 HD
 http://124.29.225.205:8000/play/a045/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
@@ -42,14 +77,13 @@ http://starshare.live:8080/live/Sylvia/Sylvia/303599.ts
 http://starshare.live:8080/live/Sylvia/Sylvia/303586.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK VITHAIKARAN
-http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK REBEL
 http://103.161.34.171/movie/Sylvia/Sylvia/303916.mp4?token=ShJcU0BbQQNHDFIABwZQDlgAVAADUABWBFQDBFZdBVBVB1ECC1BbXVAbGBpEF0dcWF1vWQIXXlIBUVsGU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUUwUCBggYEENaBxtfGwUNDlYNDgoSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw4NBxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK PREMALU
-https://cdn111.vembz.one/h7tocojwamlbu3tf6rvdl5h4rojxqd5bxi6owp3dqgc7yngbftu7cfxifopq/www.TamilYogi.red_-_Premalu_(2024)_Tamil_HQ_PreDVD_1080p_HQ_Clean_Aud_2_8GB_HD_720p.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK kaaduvetti
 http://103.161.34.171/movie/Sylvia/Sylvia/300338.mp4?token=ShJcU0BbQQNHWgZbDgFUCwkJVQYDBVwHVFYDUwZXAApQAQMKA1JXCVYbGBpEF0dcWF1vWQIXXlIBUlEEXUgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoDAQkYEENaBxtfGwcNAFAFCgkSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw8IBBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
@@ -57,9 +91,12 @@ http://103.161.34.171/movie/Sylvia/Sylvia/300338.mp4?token=ShJcU0BbQQNHWgZbDgFUC
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK mission c1
 http://103.161.34.171/movie/Sylvia/Sylvia/299076.mp4?token=ShJcU0BbQQNHDAxZB1cNDw0FVlFXUQYCUlYDDwBWAQUCUlcLVVBTDQAbGBpEF0dcWF1vWQIXXlMIW1IAU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoAAgEYEENaBxtfGwYJBVcCDwgSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw0NAxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK VITHAIKARAN
+http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 
 
-
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_232735784749800363151198.png" group-title="Tamil",Astro Vanavil HD
+http://xtv.ooo:8080/live/check5732/check12092/352092.ts
 
 #EXTINF:-1,SUN HD USA
 http://watchindia.net:8880/live/98697/23119/2089.ts
@@ -162,32 +199,15 @@ http://xtv.ooo:8080/live/check5732/check12092/301495.ts
 
 
 
-#EXTINF:-1 group-title="bhakthi",Swasthik
-http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA HD
-https://edge.taghtia.com/sa/7.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA SD
-http://162.212.178.70:4442/bysid/8.ts
-
-#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
-https://server.iptelevisiontv.com/hls/tamilpr.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_1218047292782622982570899.png" group-title="Devotional",Lourdes Tv
-http://rott.ridsys.in/riptv/live/stream22/index.m3u8
-#EXTINF:-1 tvg-id="bhakthi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6m101TRYzq5V0kwsiHClCPa0HzX8VegfbMA&usqp=CAU" group-title="Tamil;Local",VinmeenMusic
-http://vinmeentv.livebox.co.in/vinmeentvhls/live.m3u8
 
 
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", ZeeTamil News HD
-https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa HD
-https://ythls.armelin.one/channel/UCoOu4D7foJWfKvcDLxqrF2Q.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", SunNews HD
-https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.lyovpQ60rVi9qPxJ3UjTqAAAAA&pid=Api&P=0&h=220" group-title="1Cloud",SKy Music TV
 http://ipcloud.live:8080/nvision/skymusic.m3u8
@@ -229,10 +249,11 @@ https://1cloud.digital/onetv/onemovies.m3u8
 https://1cloud.digital/onetv/onehollywood.m3u8
 
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeadYKoF207QFRZ6CiCS1B0qHZ0SupE88AhdwLqJ15GVVhlJv2N79lWEs&s=10" tvg-id="", THALAA TV
-https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0401425841398939739572268.png" group-title="Tamil",Mass Tv
+http://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0357246360065588137514740.png" group-title="Tamil",GTA Tamil
+http://144.217.77.42:8888//gta_tamil//index.m3u8
 
 
 
