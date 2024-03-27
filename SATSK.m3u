@@ -4,6 +4,8 @@
 
 #EXTINF:-1 group-title="bhakthi",Swasthik
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA HD
 https://edge.taghtia.com/sa/7.m3u8
@@ -93,7 +95,8 @@ http://103.161.34.171/movie/Sylvia/Sylvia/299076.mp4?token=ShJcU0BbQQNHDAxZB1cND
 http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 
 
-
+#EXTINF:-1 group-title="Temp",Vellithirai
+http://starshare.live:8080/live/53rumaiz87/7567new977/143054.m3u8
 
 #EXTINF:-1,SUN HD USA
 http://watchindia.net:8880/live/98697/23119/2089.ts
@@ -247,7 +250,10 @@ https://1cloud.digital/onetv/onehollywood.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0401425841398939739572268.png" group-title="Tamil",Mass Tv
+http://tv2.massstream.net/Masstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0357246360065588137514740.png" group-title="Tamil",GTA Tamil
+http://144.217.77.42:8888//gta_tamil//index.m3u8
 
 
 
