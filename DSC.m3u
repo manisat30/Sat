@@ -7,8 +7,6 @@ http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA HD
-https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",QURAN MECCA SD
 http://162.212.178.70:4442/bysid/8.ts
 #EXTINF:-1 tvg-logo="" group-title=" group-title="Devotional",Tamil Pirai TV
