@@ -111,11 +111,15 @@ http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 #EXTINF:-1,SUN HD 
 http://xtv.ooo:8080/live/check5732/check12092/244623.ts
 
-#EXTINF:-1,VIJAY HD
-http://watchindia.net:8880/live/98697/23119/2140.ts
 
 #EXTINF:-1,VIJAYSUPER HD 
 http://watchindia.net:8880/live/98697/23119/2190.ts
+
+#EXTINF:-1,VIJAY HD
+http://watchindia.net:8880/live/98697/23119/846.ts
+
+#EXTINF:-1,VIJAY HD
+http://watchindia.net:8880/live/98697/23119/2140.ts
 
 #EXTINF:-1,VIJAY HD 
 http://xtv.ooo:8080/live/check5732/check12092/244624.ts
@@ -135,6 +139,9 @@ http://xtv.ooo:8080/live/check5732/check12092/244572.ts
 #EXTINF:-1,JAYA HD 
 http://watchindia.net:8880/live/98697/23119/851.ts
 
+#EXTINF:-1,JAYA MAX 
+http://xtv.ooo:8080/live/check5732/check12092/244573.ts
+
 #EXTINF:-1,J MOVIE 
 http://watchindia.net:8880/live/98697/23119/849.ts
 
@@ -152,9 +159,12 @@ http://watchindia.net:8880/live/98697/23119/844.ts
 
 #EXTINF:-1,COLORS HD
 http://xtv.ooo:8080/live/check5732/check12092/244552.ts
+#EXTINF:-1,COLORS HD
+http://xtv.ooo:8080/live/check5732/check12092/244519.ts
 
 #EXTINF:-1,COLORS HD
 http://watchindia.net:8880/live/98697/23119/2083.ts
+
 
 #EXTINF:-1,SUN LIFE
 http://watchindia.net:8880/live/98697/23119/847.ts
