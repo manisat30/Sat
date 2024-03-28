@@ -34,20 +34,17 @@ https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://xtv.ooo:8080/live/check5732/check12092/220061.ts
 
-#EXTINF:-1,Star Sports 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://xtv.ooo:8080/live/check5732/check12092/220062.ts
+
+#EXTINF:-1,IPL HD
 http://124.29.225.205:8000/play/a045/index.m3u8
-#EXTINF:-1,Star Sports 2 HD
+#EXTINF:-1,IPL 2 HD
 http://124.29.225.205:8000/play/a03m/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
-http://livetvbox.live:8080/live/Sylvia/Sylvia/9722.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
-http://livetvbox.live:8080/live/Sylvia/Sylvia/303590.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",IPL  Star Sports 1 HD
 http://livetvbox.live:8080/live/Sylvia/Sylvia/303591.ts
