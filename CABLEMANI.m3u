@@ -1,5 +1,27 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
+#EXTINF:-1,HBO HD 
+http://xtv.ooo:8080/live/check5732/check12092/353814.ts
+#EXTINF:-1,HBO HD 
+http://xtv.ooo:8080/live/check5732/check12092/353773.ts
+#EXTINF:-1,HBO HD 
+http://xtv.ooo:8080/live/check5732/check12092/353688.ts
+#EXTINF:-1,HBO HD
+http://xtv.ooo:8080/live/check5732/check12092/352753.ts
+#EXTINF:-1,HBO HD
+http://xtv.ooo:8080/live/check5732/check12092/352752.ts
+#EXTINF:-1,HBO HD
+http://xtv.ooo:8080/live/check5732/check12092/352372.ts
+#EXTINF:-1,AXN HD
+http://xtv.ooo:8080/live/check5732/check12092/348410.ts
+#EXTINF:-1,AXN HD
+http://xtv.ooo:8080/live/check5732/check12092/348584.ts
+#EXTINF:-1,AXN HD
+http://xtv.ooo:8080/live/check5732/check12092/348773.ts
+#EXTINF:-1,AXN HD
+http://xtv.ooo:8080/live/check5732/check12092/350809.ts
+#EXTINF:-1,AXN HD
+http://xtv.ooo:8080/live/check5732/check12092/350895.ts
 
 
 #EXTINF:-1 group-title="bhakthi",Swasthik
@@ -31,6 +53,7 @@ https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxcuvXX.png" group-title="Temp",Polimer News (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+
 
 
 
