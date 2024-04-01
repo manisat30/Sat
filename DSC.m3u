@@ -3,7 +3,8 @@
 #Visit (http://tnm3u.in.net) For More
 #Please Dont Copy My Work, Give Credit Before Sharing
 
-Sun Channels-------
+
+
 
 #EXTINF:-1  tvg-name="Sun Tv" group-title="Tamil" tvg-chno="1" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1406217136292542621467967.png",Sun Tv
 https://edge1.laotv.la/live/SunTV/index.m3u8
@@ -13,7 +14,85 @@ http://50.7.234.10:8278/Adithya/playlist.m3u8
 
 #EXTINF: -1 tvg-id="496" tvg-chno="3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11957-j9lu8sc8-v1/imageContent-11957-j9lu8sc8-m1.png" group-title="Music", Sun Music HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155881&extension=ts
--------Kalaignar Channels-----
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_232735784749800363151198.png" group-title="Tamil",Astro Vanavil HD
+http://xtv.ooo:8080/live/check5732/check12092/352092.ts
+
+#EXTINF:-1,SUN HD USA
+http://watchindia.net:8880/live/98697/23119/2089.ts
+
+#EXTINF:-1,SUN HD IND
+http://watchindia.net:8880/live/98697/23119/843.ts
+
+#EXTINF:-1,SUN HD 
+http://xtv.ooo:8080/live/check5732/check12092/244553.ts
+
+
+#EXTINF:-1,SUN HD 
+http://xtv.ooo:8080/live/check5732/check12092/244623.ts
+
+
+#EXTINF:-1,VIJAYSUPER HD 
+http://watchindia.net:8880/live/98697/23119/2190.ts
+
+#EXTINF:-1,VIJAY HD
+http://watchindia.net:8880/live/98697/23119/846.ts
+
+#EXTINF:-1,VIJAY HD
+http://watchindia.net:8880/live/98697/23119/2140.ts
+
+#EXTINF:-1,VIJAY HD 
+http://xtv.ooo:8080/live/check5732/check12092/244624.ts
+
+#EXTINF:-1,ZEE TAMIL HD
+http://watchindia.net:8880/live/98697/23119/887.ts
+#EXTINF:-1,ZEE TAMIL HD 
+http://xtv.ooo:8080/live/check5732/check12092/244523.ts
+
+#EXTINF:-1,ZEE THIRAI
+http://watchindia.net:8880/live/98697/23119/2142.ts
+
+
+#EXTINF:-1,JAYA HD 
+http://xtv.ooo:8080/live/check5732/check12092/244572.ts
+
+#EXTINF:-1,JAYA HD 
+http://watchindia.net:8880/live/98697/23119/851.ts
+
+#EXTINF:-1,JAYA MAX 
+http://xtv.ooo:8080/live/check5732/check12092/244573.ts
+
+#EXTINF:-1,J MOVIE 
+http://watchindia.net:8880/live/98697/23119/849.ts
+
+#EXTINF:-1,K HD
+http://xtv.ooo:8080/live/check5732/check12092/244555.ts
+
+#EXTINF:-1,K HD
+http://watchindia.net:8880/live/98697/23119/845.ts
+
+#EXTINF:-1,SUN MUSIC  HD
+http://xtv.ooo:8080/live/check5732/check12092/244554.ts
+
+#EXTINF:-1,SUN MUSIC HD
+http://watchindia.net:8880/live/98697/23119/844.ts
+
+#EXTINF:-1,COLORS TAMIL SD
+http://xtv.ooo:8080/live/check5732/check12092/244552.ts
+#EXTINF:-1,COLORS TAMIL HD
+http://xtv.ooo:8080/live/check5732/check12092/244519.ts
+#EXTINF:-1,COLORS TAMIL (malaysia) HD
+http://watchindia.net:8880/live/98697/23119/2083.ts
+
+
+#EXTINF:-1,SUN LIFE
+http://watchindia.net:8880/live/98697/23119/847.ts
+
+
+#EXTINF:-1,MURASU TV
+http://watchindia.net:8880/live/98697/23119/880.ts
+
 
 #EXTINF:-1  tvg-name="Kalaignar Tv" group-title="Tamil" tvg-chno="4" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_143300340622294627715724.png", Kalaignar Tv
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
@@ -24,7 +103,7 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1  tvg-name="Murasu"  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1439339136723484372762714.png",Murasu
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 
------------Vijay Tv---------
+
 
 #EXTINF: -1 tvg-id="496" tvg-chno="32" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Tamil", Star Vijay HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155874&extension=ts
@@ -35,13 +114,13 @@ http://xtv.ooo:8080/359052742/470428329/244622
 #EXTINF: -1 tvg-id="ts906" tvg-chno="18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="Tamil", Vijay Takkar
 https://ardinesh-pc-remote.puspas.com.np/live-tv/wtc05/live/wtc05-universal/star-vijay-music/index.ts
 
-----------Zee Channels----------
+
 
 #EXTINF: -1 tvg-id="521" tvg-chno="33" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tamil", Zee Tamil HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155876&extension=ts
 
 
------Raj Channels-----
+
 
 #EXTINF: -1 tvg-id="425" tvg-chno="11" tvg-logo="https://tatalogo.pages.dev/425.png" group-title="Music", Raj Musix
 http://xtv.ooo:8080/359052742/470428329/244528
@@ -55,7 +134,7 @@ http://mag.trexlive.me:80/Michael88/Michael88/155910
 #EXTINF:-1  tvg-name="Raj News" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0836505091207137108765881.png",Raj News
 http://mag.trexlive.me:80/Michael88/Michael88/155905
 
--------Jaya Channels------
+
 #EXTINF:-1  tvg-name="Jaya Tv HD" group-title="Temp" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_0931059022261463062991474.png",Jaya Tv
 http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6694/index.m3u8
 
@@ -69,7 +148,7 @@ http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6696/index.m3u8
 #EXTINF:-1  tvg-name="Jaya Movies" group-title="Temp" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_1019554277598528685186321.png",Jaya Movie
 http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6698/index.m3u8
 
------Other Tvs------
+
 #EXTINF:-1  tvg-name="Vasanth Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2159105740838580246594884.png",Vasanth Tv
 http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 
@@ -107,7 +186,7 @@ https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chun
 #EXTINF:-1  tvg-name="Polimer Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0719227676203664974409114.png",Polimer Tv
 http://mag.trexlive.me:80/Michael88/Michael88/155909
 
------------Religious--------
+
 
 #EXTINF:-1  tvg-name="Swasthik Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2329476994390643797780769.png", Swasthik Tv
 https://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
@@ -116,7 +195,7 @@ https://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
 #EXTINF:-1  tvg-name="Jothi Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png",Jothi Tv
 http://notvstream.in/jothitv/jothitv.m3u8
 
------Other Countries-----
+
 
 #EXTINF:-1  tvg-name="IBC Canada" group-title="Tamil" tvg-logo="",IBC Canada
 https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
@@ -215,7 +294,7 @@ https://segment.yuppcdn.net/110322/thanthi/110322/thanthi_1800/playlist.m3u8#d62
 #EXTINF:-1  tvg-name="Polimer News" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0224324877672948452887376.png",Polimer News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 
------------KIDS----------
+
 #EXTINF:-1  tvg-name="Sony YAY" group-title="Kids" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_2148202737662327064082726.png",Sony YAY
 http://mag.trexlive.me/Michael88/Michael88/155900
 
@@ -243,7 +322,7 @@ http://103.131.214.129:9985/stream/channelid/1666515958?ticket=ADB7529A58A8C25B5
 #EXTINF:-1  tvg-name="Discovery Channel" group-title="Kids" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240307_0056328499399123707643378.png",Discovery Channel
 https://varun-iptv.netlify.app/m3u/discoverytamil.m3u8
 
------- English ------------
+
 #EXTINF:-1  tvg-name="Beano TV" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1317082826699434251250928.png",Beano TV
 https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
 
@@ -277,7 +356,7 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Brat Tv" group-title="English" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240324_183452123995913782211810.png",Brat Tv
 https://brat-rakuten.amagi.tv/playlist.m3u8
 
------------Malaysia---------
+
 
 #EXTINF:-1  tvg-name="Sun Tv (Malaysia)" group-title="Malaysia" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1406217136292542621467967.png",Sun Tv (Malaysia)
 http://50.7.234.10:8278/Suntv/playlist.m3u8
@@ -447,7 +526,7 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
 
 
--------Sports-----------
+
 
 #EXTINF:-1  tvg-name="Jio Cinema IPL 4k" group-title="Sports" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240326_1822044360300484163518143.png",Jio Cinema IPL
 http://tnm3u.jw.lt/tv/jio-tamil.m3u8
@@ -506,7 +585,7 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="" group-title="Sports" tvg-logo="",NCCA March Madness 
 http://170.254.18.106/TRUTV/index.m3u8
 
--------Movies--------
+
 
 
 #EXTINF:-1  tvg-name="Road House 2024" group-title="Movies" tvg-logo="https://tvicn.files.wordpress.com/2024/03/road-house1785363368736552516.jpeg",Road House 2024
@@ -583,7 +662,7 @@ https://cdn96.vembz.one/h7tocyzwamlbu3tf6rvdlmx4yuqfjinr4rsjqtggo72fukv47gj73rs7
 #EXTINF:-1  tvg-name="Merry Christmas (2024) " group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkcC5D2XbpfddXdlJ9-03hN50PpjGtFX0C23ysM9v4D6t9rRw-BJvhG30&s=10",Merry Christmas (2024)
 https://cdn96.vembz.one/h7tocrzwamlbu3tf6rvdlnp72epurt4nkvak3bydyqwws4xsozcp5lppno4q/www.TamilYogi.red_-_Merry_Christmas_(2024)_Tamil_HQ_HDRip_1080p_(DD+5_1_640Kbps_&_AAC)_2_9GB_ESub_HD_720p.mp4
 
---------- Local Channels ---------
+
 #EXTINF:-1  tvg-name="Kings Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240401_1830083926942554038185284.png",Kings Tv
 http://nextgeninfotech.ddns.net:8080/hls/kings.m3u8
 
@@ -1428,7 +1507,8 @@ http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
 #EXTINF:-1  tvg-name="S Channel" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0152354193328673257607086.png",S Channel
 http://nijamtv.indiamatrix.in/nijamtv/sdigital.m3u8
 
-----------Temp--------------
+
+
 #EXTINF:-1  tvg-name="" group-title="Temp" tvg-logo="",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 
@@ -1628,102 +1708,10 @@ http://starshare.live:8080/live/Sylvia/Sylvia/303586.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK NERU
-http://103.161.35.195/movie/Sylvia/Sylvia/274836.mp4?token=ShJcU0BbQQNHDAxZB1cNDw0FVlFXUQYCUlYDDwBWAQUCUlcLVVBTDQAbGBpEF0dcWF1vWQIXXlMIW1IAU0&token=ShJcU0BbQQNHWAFeB1IMCFsDBQJWAAIFBFdTAVEHAlAFUQMBAVIGAFwbGBpEF0dcWF1vWQIXXlMGVloEU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZSVgsEBQMYEENaBxtfGwUAAVsFDwwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBgoKCRIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK Neru
-https://starshare.live:8080/movie/Sylvia/Sylvia/274836.mp4?token=ShJcU0BbQQNHDAxZB1cNDw0FVlFXUQYCUlYDDwBWAQUCUlcLVVBTDQAbGBpEF0dcWF1vWQIXXlMIW1IAU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoAAgEYEENaBxtfGwYJBVcCDwgSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw0NAxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK REBEL
-http://103.161.34.171/movie/Sylvia/Sylvia/303916.mp4?token=ShJcU0BbQQNHDFIABwZQDlgAVAADUABWBFQDBFZdBVBVB1ECC1BbXVAbGBpEF0dcWF1vWQIXXlIBUVsGU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUUwUCBggYEENaBxtfGwUNDlYNDgoSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw4NBxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK kaaduvetti
-http://103.161.34.171/movie/Sylvia/Sylvia/300338.mp4?token=ShJcU0BbQQNHWgZbDgFUCwkJVQYDBVwHVFYDUwZXAApQAQMKA1JXCVYbGBpEF0dcWF1vWQIXXlIBUlEEXUgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoDAQkYEENaBxtfGwcNAFAFCgkSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw8IBBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK mission c1
-http://103.161.34.171/movie/Sylvia/Sylvia/299076.mp4?token=ShJcU0BbQQNHDAxZB1cNDw0FVlFXUQYCUlYDDwBWAQUCUlcLVVBTDQAbGBpEF0dcWF1vWQIXXlMIW1IAU0gRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwdcUQoAAgEYEENaBxtfGwYJBVcCDwgSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBw0NAxIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="Tamil Streams Rasi",SAT-SK VITHAIKARAN
-http://103.161.34.171/movie/Sylvia/Sylvia/303925.mp4?token=ShJcU0BbQQNHXFYADgZUXQoBAQAAV1cDUFBRA1VWUgABAgZXAFBXXVUbGBpEF0dcWF1vWQIXXlIBUVsFUEgRR0JVRm1aV0EDRwwMDQZXBhsVEkRZC1BGWwBVUwZUXQYBCAUYEENaBxtfGwUOB1QDDAwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwABCBIcRFYLFF8WEE5HXhF7fxIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
 
 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_232735784749800363151198.png" group-title="Tamil",Astro Vanavil HD
-http://xtv.ooo:8080/live/check5732/check12092/352092.ts
-
-#EXTINF:-1,SUN HD USA
-http://watchindia.net:8880/live/98697/23119/2089.ts
-
-#EXTINF:-1,SUN HD IND
-http://watchindia.net:8880/live/98697/23119/843.ts
-
-#EXTINF:-1,SUN HD 
-http://xtv.ooo:8080/live/check5732/check12092/244553.ts
-
-
-#EXTINF:-1,SUN HD 
-http://xtv.ooo:8080/live/check5732/check12092/244623.ts
-
-
-#EXTINF:-1,VIJAYSUPER HD 
-http://watchindia.net:8880/live/98697/23119/2190.ts
-
-#EXTINF:-1,VIJAY HD
-http://watchindia.net:8880/live/98697/23119/846.ts
-
-#EXTINF:-1,VIJAY HD
-http://watchindia.net:8880/live/98697/23119/2140.ts
-
-#EXTINF:-1,VIJAY HD 
-http://xtv.ooo:8080/live/check5732/check12092/244624.ts
-
-#EXTINF:-1,ZEE TAMIL HD
-http://watchindia.net:8880/live/98697/23119/887.ts
-#EXTINF:-1,ZEE TAMIL HD 
-http://xtv.ooo:8080/live/check5732/check12092/244523.ts
-
-#EXTINF:-1,ZEE THIRAI
-http://watchindia.net:8880/live/98697/23119/2142.ts
-
-
-#EXTINF:-1,JAYA HD 
-http://xtv.ooo:8080/live/check5732/check12092/244572.ts
-
-#EXTINF:-1,JAYA HD 
-http://watchindia.net:8880/live/98697/23119/851.ts
-
-#EXTINF:-1,JAYA MAX 
-http://xtv.ooo:8080/live/check5732/check12092/244573.ts
-
-#EXTINF:-1,J MOVIE 
-http://watchindia.net:8880/live/98697/23119/849.ts
-
-#EXTINF:-1,K HD
-http://xtv.ooo:8080/live/check5732/check12092/244555.ts
-
-#EXTINF:-1,K HD
-http://watchindia.net:8880/live/98697/23119/845.ts
-
-#EXTINF:-1,SUN MUSIC  HD
-http://xtv.ooo:8080/live/check5732/check12092/244554.ts
-
-#EXTINF:-1,SUN MUSIC HD
-http://watchindia.net:8880/live/98697/23119/844.ts
-
-#EXTINF:-1,COLORS TAMIL SD
-http://xtv.ooo:8080/live/check5732/check12092/244552.ts
-#EXTINF:-1,COLORS TAMIL HD
-http://xtv.ooo:8080/live/check5732/check12092/244519.ts
-#EXTINF:-1,COLORS TAMIL (malaysia) HD
-http://watchindia.net:8880/live/98697/23119/2083.ts
-
-
-#EXTINF:-1,SUN LIFE
-http://watchindia.net:8880/live/98697/23119/847.ts
-
-
-#EXTINF:-1,MURASU TV
-http://watchindia.net:8880/live/98697/23119/880.ts
 
 
 
