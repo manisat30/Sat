@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="Tamil: VIJAY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TA
-MIL",Tamil: VIJAY TV (4K).
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="Tamil: VIJAY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: VIJAY TV (4K).
 http://livetvbox.live:8080/live/Jackie/Jackie/98898.ts
 #EXTINF:-1 tvg-id="vijayhd.in" tvg-name="Tamil: VIJAY TV (FHD) " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU" group-title="TAMIL",Tamil: VIJAY TV (FHD) 
 http://livetvbox.live:8080/live/Jackie/Jackie/9969.ts
