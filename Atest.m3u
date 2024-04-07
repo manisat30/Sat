@@ -1,6 +1,264 @@
 
 
 
+#EXTM3U url-tvg="http://t.me/tamilm3u"
+#Created By Palani (Inteksoft Solutions)
+#Visit (http://tnm3u.in.net) For More
+#Please Dont Copy My Work, Give Credit Before Sharing
+
+
+
+http://livetvbox.live:8080/live/Sylvia/Sylvia/9722.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/303590.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://xtv.ooo:8080/live/check5732/check12092/220061.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://xtv.ooo:8080/live/check5732/check12092/220062.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",IPL  Star Sports 1 HD
+http://livetvbox.live:8080/live/Sylvia/Sylvia/303591.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-3
+https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-4
+http://starshare.live:8080/live/Sylvia/Sylvia/303597.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-5
+http://starshare.live:8080/live/Sylvia/Sylvia/303593.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-6
+http://starshare.live:8080/live/Sylvia/Sylvia/303594.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-7
+https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd|license_type=clearkey&license_key={"keys":[{"kty":"oct","k":"AiQsnP3yZdNhfpjtZMq4gA","kid":"jixvPenDM2+2q/U7qNsXyA"}],"type":"temporary"}
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-8
+https://rftv.wtf/tp/tplay.mpd?contentID=1033|license_type=clearkey&license_key=https://rftv.wtf/tp/tplay.php?contentID=1033&key
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-9
+http://starshare.live:8080/live/Sylvia/Sylvia/303599.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-10
+http://starshare.live:8080/live/Sylvia/Sylvia/303586.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-name="Sun Tv" group-title="Tamil" tvg-chno="1" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1406217136292542621467967.png",Sun Tv
+https://edge1.laotv.la/live/SunTV/index.m3u8
+
+#EXTINF:-1  tvg-name="Adhitya Tv" group-title="Tamil" tvg-chno="2" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_1005321116925482036641892.png",Adhitya Tv
+http://50.7.234.10:8278/Adithya/playlist.m3u8
+
+#EXTINF: -1 tvg-id="496" tvg-chno="3" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11957-j9lu8sc8-v1/imageContent-11957-j9lu8sc8-m1.png" group-title="Music", Sun Music HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155881&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_232735784749800363151198.png" group-title="Tamil",Astro Vanavil HD
+http://xtv.ooo:8080/live/check5732/check12092/352092.ts
+
+#EXTINF:-1,SUN HD USA
+http://watchindia.net:8880/live/98697/23119/2089.ts
+
+#EXTINF:-1,SUN HD IND
+http://watchindia.net:8880/live/98697/23119/843.ts
+
+#EXTINF:-1,SUN HD 
+http://xtv.ooo:8080/live/check5732/check12092/244553.ts
+
+
+#EXTINF:-1,SUN HD 
+http://xtv.ooo:8080/live/check5732/check12092/244623.ts
+
+
+#EXTINF:-1,VIJAYSUPER HD 
+http://watchindia.net:8880/live/98697/23119/2190.ts
+
+#EXTINF:-1,VIJAY HD
+http://watchindia.net:8880/live/98697/23119/846.ts
+
+#EXTINF:-1,VIJAY HD
+http://watchindia.net:8880/live/98697/23119/2140.ts
+
+#EXTINF:-1,VIJAY HD 
+http://xtv.ooo:8080/live/check5732/check12092/244624.ts
+
+#EXTINF:-1,ZEE TAMIL HD
+http://watchindia.net:8880/live/98697/23119/887.ts
+#EXTINF:-1,ZEE TAMIL HD 
+http://xtv.ooo:8080/live/check5732/check12092/244523.ts
+
+#EXTINF:-1,ZEE THIRAI
+http://watchindia.net:8880/live/98697/23119/2142.ts
+
+
+#EXTINF:-1,JAYA HD 
+http://xtv.ooo:8080/live/check5732/check12092/244572.ts
+
+#EXTINF:-1,JAYA HD 
+http://watchindia.net:8880/live/98697/23119/851.ts
+
+#EXTINF:-1,JAYA MAX 
+http://xtv.ooo:8080/live/check5732/check12092/244573.ts
+
+
+#EXTINF:-1,J MOVIE 
+http://watchindia.net:8880/live/98697/23119/849.ts
+
+#EXTINF:-1,K HD
+http://xtv.ooo:8080/live/check5732/check12092/244555.ts
+
+#EXTINF:-1,K HD
+http://watchindia.net:8880/live/98697/23119/845.ts
+
+#EXTINF:-1,SUN MUSIC  HD
+http://xtv.ooo:8080/live/check5732/check12092/244554.ts
+
+#EXTINF:-1,SUN MUSIC HD
+http://watchindia.net:8880/live/98697/23119/844.ts
+
+#EXTINF:-1,COLORS TAMIL SD
+http://xtv.ooo:8080/live/check5732/check12092/244552.ts
+#EXTINF:-1,COLORS TAMIL HD
+http://xtv.ooo:8080/live/check5732/check12092/244519.ts
+#EXTINF:-1,COLORS TAMIL (malaysia) HD
+http://watchindia.net:8880/live/98697/23119/2083.ts
+
+
+#EXTINF:-1,SUN LIFE
+http://watchindia.net:8880/live/98697/23119/847.ts
+
+
+#EXTINF:-1,MURASU TV
+http://watchindia.net:8880/live/98697/23119/880.ts
+
+
+#EXTINF:-1  tvg-name="Kalaignar Tv" group-title="Tamil" tvg-chno="4" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_143300340622294627715724.png", Kalaignar Tv
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Isai Aruvi" group-title="Music" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1403383690678678704039444.png",Isai Aruvi
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
+
+#EXTINF:-1  tvg-name="Murasu"  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1439339136723484372762714.png",Murasu
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
+
+
+#EXTINF: -1 tvg-id="496" tvg-chno="32" tvg-logo="https://tatalogo.pages.dev/496.png" group-title="Tamil", Star Vijay HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155874&extension=ts
+
+#EXTINF: -1 tvg-id="ts275" tvg-chno="13" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png" group-title="Tamil", Vijay Super
+http://xtv.ooo:8080/359052742/470428329/244622
+
+#EXTINF: -1 tvg-id="ts906" tvg-chno="18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="Tamil", Vijay Takkar
+https://ardinesh-pc-remote.puspas.com.np/live-tv/wtc05/live/wtc05-universal/star-vijay-music/index.ts
+
+#EXTINF: -1 tvg-id="521" tvg-chno="33" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tamil", Zee Tamil HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155876&extension=ts
+
+#EXTINF: -1 tvg-id="425" tvg-chno="11" tvg-logo="https://tatalogo.pages.dev/425.png" group-title="Music", Raj Musix
+http://xtv.ooo:8080/359052742/470428329/244528
+
+
+#EXTINF:-1  tvg-name="Raj Digital Plus" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1402221138701675085776420.png",Raj Digital Plus
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
+
+#EXTINF:-1  tvg-name="Raj Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0835502345543783345877733.png",Raj TV
+http://mag.trexlive.me:80/Michael88/Michael88/155910
+#EXTINF:-1  tvg-name="Raj News" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0836505091207137108765881.png",Raj News
+http://mag.trexlive.me:80/Michael88/Michael88/155905
+
+
+#EXTINF:-1  tvg-name="Jaya Tv HD" group-title="Temp" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_0931059022261463062991474.png",Jaya Tv
+http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6694/index.m3u8
+
+
+#EXTINF: -1 tvg-id="99" tvg-chno="8" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png" group-title="Tamil", Jaya TV HD
+http://xtv.ooo:8080/359052742/470428329/244572
+
+#EXTINF:-1  tvg-name="Jaya Plus" group-title="News" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_1020388256832282687895897.png",Jaya Plus
+http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6696/index.m3u8
+
+#EXTINF:-1  tvg-name="Jaya Movies" group-title="Temp" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_1019554277598528685186321.png",Jaya Movie
+http://bda1bc05.cbilant.com/iptv/KGNQF88SNNYPWZ/6698/index.m3u8
+
+
+#EXTINF:-1  tvg-name="Vasanth Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2159105740838580246594884.png",Vasanth Tv
+http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+
+#EXTINF:-1  tvg-name="Makkal Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_1451308776051361970842423.png",Makkal Tv
+http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1  tvg-name="TTD" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png",TTD
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
+
+#EXTINF:-1  tvg-name="Imayam" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_0714135772718039547865531.png",Imayam
+https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
+
+#EXTINF:-1  tvg-name="Colors Tamil HD" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240310_1011186003267982811615453.png",Colors Tamil
+http://mag.trexlive.me:80/Michael88/Michael88/155888
+
+#EXTINF: -1 tvg-id="418" tvg-logo="https://tatalogo.pages.dev/418.png" group-title="Tamil", Colors Tamil HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155888&extension=ts
+
+
+#EXTINF: -1 tvg-id="674" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Tamil", Colors Tamil HD 2
+http://xtv.ooo:8080/359052742/470428329/244519
+
+
+#EXTINF:-1  tvg-name="Colors Tamil" group-title="Temp" tvg-logo="",Colors Tamil
+http://ptuf.ridsys.in/riptv/live/stream95/index.m3u8
+
+
+#EXTINF:-1  tvg-name="Eye Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240314_0400265233713257533753246.png",Eye Tv
+https://live.eyetamil.tv/tv/index.m3u8
+
+#EXTINF:-1  tvg-name="Moon Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png",Moon Tv
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+
+#EXTINF:-1  tvg-name="Polimer Tv" group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240311_0719227676203664974409114.png",Polimer Tv
+http://mag.trexlive.me:80/Michael88/Michael88/155909
+
+
+
+#EXTINF:-1  tvg-name="Swasthik Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240318_2329476994390643797780769.png", Swasthik Tv
+https://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
+
+
+#EXTINF:-1  tvg-name="Jothi Tv" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png",Jothi Tv
+http://notvstream.in/jothitv/jothitv.m3u8
+
+
+
+#EXTINF:-1  tvg-name="IBC Canada" group-title="Tamil" tvg-logo="",IBC Canada
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+
+#EXTINF:-1  tvg-name="IBC Siluvai" group-title="Devotional" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_0223263207013333774828970.png",IBC Siluvai
+https://tx1.ibctamil.tv/CDN_IBC_Siluvai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-name="Tv1" group-title="Malaysia" tvg-logo="",Tv1
+https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv1/
+
+
+#EXTINF:-1  tvg-name="Astro Vanavil HD" group-title="Malaysia" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240323_232735784749800363151198.png",Astro Vanavil HD
+http://xtv.ooo:8080/359052742/470428329/352092
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="in_starvijay.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg" group-title="TAMIL",IN: STAR  VIJAY  _4K 
@@ -121,3 +379,12 @@ https://plx.iptv18.tech/dhoom.php?id=7797
 https://plx.iptv18.tech/dhoom.php?id=1584
 #EXTINF:-1 tvg-id="in_mktunes.in" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="TAMIL",IN: Madha TV_HD 
 https://plx.iptv18.tech/dhoom.php?id=9941
+
+
+
+
+
+
+
+
+
