@@ -14,12 +14,8 @@ http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 http://xtv.ooo:8080/live/check5732/check12092/244623.ts
 
 
-#EXTINF:-1,ZEE TAMIL HD
-http://watchindia.net:8880/live/98697/23119/887.ts
-#EXTINF:-1,ZEE TAMIL HD 
-http://xtv.ooo:8080/live/check5732/check12092/244523.ts
 
-
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Tamil: SUNTV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: SUNTV (4K).
 http://livetvbox.live:8080/live/Jackie/Jackie/98899.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Tamil: SUNTV (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" group-title="TAMIL",Tamil: SUNTV (FHD)
 http://livetvbox.live:8080/live/Jackie/Jackie/23320.ts
@@ -31,6 +27,24 @@ http://livetvbox.live:8080/live/Jackie/Jackie/5921.ts
 http://livetvbox.live:8080/live/Jackie/Jackie/5922.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TM: SUN TV HD " tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sun-TV-HD-Logo.png" group-title="TAMIL",TM: SUN TV HD 
 http://livetvbox.live:8080/live/Jackie/Jackie/5923.ts
+
+
+#EXTINF:-1,ZEE TAMIL HD
+http://watchindia.net:8880/live/98697/23119/887.ts
+#EXTINF:-1,ZEE TAMIL HD 
+http://xtv.ooo:8080/live/check5732/check12092/244523.ts
+
+
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Tamil: Zee Tamil (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: Zee Tamil (4K).
+http://livetvbox.live:8080/live/Jackie/Jackie/98897.ts
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Tamil: Zee Tamil (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="TAMIL",Tamil: Zee Tamil (FHD)
+http://livetvbox.live:8080/live/Jackie/Jackie/9971.ts
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TM: ZEE TAMIL HD (USA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="TAMIL",TM: ZEE TAMIL HD (USA)
+http://livetvbox.live:8080/live/Jackie/Jackie/5930.ts
+#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TM: ZEE TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" group-title="TAMIL",TM: ZEE TAMIL
+http://livetvbox.live:8080/live/Jackie/Jackie/225.ts
+
+
 
 
 #EXTINF:-1 tvg-id="vijayhd.in" tvg-name="Tamil: VIJAY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: VIJAY TV (4K).
@@ -47,14 +61,12 @@ http://livetvbox.live:8080/live/Jackie/Jackie/1634.ts
 http://livetvbox.live:8080/live/Jackie/Jackie/5915.ts
 #EXTINF:-1 tvg-id="vijayhd.in" tvg-name="TM: STAR VIJAY HD (Vip)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Star_Vijay_HD_2017-0.png/revision/latest/scale-to-width-down/250?cb=20190715142233" group-title="TAMIL",TM: STAR VIJAY HD (Vip)
 http://livetvbox.live:8080/live/Jackie/Jackie/5917.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Tamil: Zee Tamil (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: Zee Tamil (4K).
-http://livetvbox.live:8080/live/Jackie/Jackie/98897.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="Tamil: Zee Tamil (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="TAMIL",Tamil: Zee Tamil (FHD)
-http://livetvbox.live:8080/live/Jackie/Jackie/9971.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TM: ZEE TAMIL HD (USA)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="TAMIL",TM: ZEE TAMIL HD (USA)
-http://livetvbox.live:8080/live/Jackie/Jackie/5930.ts
-#EXTINF:-1 tvg-id="zeetamilhd.in" tvg-name="TM: ZEE TAMIL" tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Zee-Tamil-HD-Logo.png" group-title="TAMIL",TM: ZEE TAMIL
-http://livetvbox.live:8080/live/Jackie/Jackie/225.ts
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Tamil: Colors Tamil (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: Colors Tamil (4K).
 http://livetvbox.live:8080/live/Jackie/Jackie/98911.ts
 #EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Tamil: Colors Tamil (FHD)" tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/07/Colors_Tamil_HD_1.jpg&w=620&h=350&zc=1&q=100" group-title="TAMIL",Tamil: Colors Tamil (FHD)
@@ -76,8 +88,6 @@ http://livetvbox.live:8080/live/Jackie/Jackie/5898.ts
 #EXTINF:-1 tvg-id="" tvg-name="TM: KTV FHD (IND)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/K:TV:HD.jpg/revision/latest/scale-to-width-down/340?cb=20180317144717" group-title="TAMIL",TM: KTV FHD (IND)
 http://livetvbox.live:8080/live/Jackie/Jackie/5899.ts
 
-
-#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Tamil: SUNTV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: SUNTV (4K).
 
 
 
