@@ -14,7 +14,11 @@ http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 http://xtv.ooo:8080/live/check5732/check12092/244623.ts
 
 
+#EXTINF:-1,SUN HD 
+http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
+#EXTINF:-1,SUN HD 
+http://sonyiptv.net:8080/live/95814pq/10869nm/276938.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Tamil: SUNTV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: SUNTV (4K).
 http://livetvbox.live:8080/live/Jackie/Jackie/98899.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Tamil: SUNTV (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" group-title="TAMIL",Tamil: SUNTV (FHD)
@@ -29,6 +33,10 @@ http://livetvbox.live:8080/live/Jackie/Jackie/5922.ts
 http://livetvbox.live:8080/live/Jackie/Jackie/5923.ts
 
 
+#EXTINF:-1,zee tamil HD 
+http://sonyiptv.net:8080/live/95814pq/10869nm/276959.ts
+#EXTINF:-1,zee tamil HD 
+http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 #EXTINF:-1,ZEE TAMIL HD
 http://watchindia.net:8880/live/98697/23119/887.ts
 #EXTINF:-1,ZEE TAMIL HD 
@@ -46,6 +54,8 @@ http://livetvbox.live:8080/live/Jackie/Jackie/225.ts
 
 
 
+#EXTINF:-1,Vijay HD 
+http://iptvtree.net:8080/live/T-thornman/2126e132/19744.ts
 
 #EXTINF:-1 tvg-id="vijayhd.in" tvg-name="Tamil: VIJAY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: VIJAY TV (4K).
 http://livetvbox.live:8080/live/Jackie/Jackie/98898.ts
