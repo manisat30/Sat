@@ -6,6 +6,9 @@ http://watchindia.net:8880/live/98697/23119/2089.ts
 #EXTINF:-1,SUN HD IND
 http://watchindia.net:8880/live/98697/23119/843.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL: SUN TV USA" tvg-logo="" group-title="TAMIL",TAMIL: SUN TV USA-in
+http://livetvbox.live:8080/live/Jackie/Jackie/76343.ts
+
 #EXTINF:-1,SUN HD 
 http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 
