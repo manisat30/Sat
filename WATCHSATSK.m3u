@@ -369,7 +369,7 @@ http://Watchindia.net:8880/live/98697/23119/872.ts
 http://Watchindia.net:8880/live/98697/23119/858.ts
 #EXTINF:-1 tvg-id="vendhartv.in" tvg-name="" group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Vendhar_TV.png",VENDHAR TV
 http://Watchindia.net:8880/live/98697/23119/2146.ts
-#EXTINF:-1 tvg-id="zeetamil.in" tvg-name="" group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png",ZEE TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png",ZEE TAMIL
 http://Watchindia.net:8880/live/98697/23119/887.ts
 #EXTINF:-1 tvg-id="zeethirai.in" tvg-name="" group-title="TAMIL" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png",ZEE THIRAI
 http://Watchindia.net:8880/live/98697/23119/2142.ts
@@ -515,7 +515,7 @@ http://Watchindia.net:8880/live/98697/23119/2281.ts
 http://Watchindia.net:8880/live/98697/23119/2290.ts
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="" group-title="BENGALI" tvg-logo="",ZEE BANGLA HD
 http://Watchindia.net:8880/live/98697/23119/2283.ts
-#EXTINF:-1 tvg-id="tsbanglacinema.in" tvg-name="" group-title="BENGALI" tvg-logo="",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="zeebanglacinema.in" tvg-name="" group-title="BENGALI" tvg-logo="",ZEE BANGLA CINEMA
 http://Watchindia.net:8880/live/98697/23119/2287.ts
 #EXTINF:-1 tvg-id="abpasmita.in" tvg-name="" group-title="GUJURATI" tvg-logo="",ABP ASMITA HD
 http://Watchindia.net:8880/live/98697/23119/1012.ts
