@@ -1,5 +1,10 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
+
+#EXTINF:-1,BADE MIYAN CHOTE MIYAN (2024) (TAMIL) (CAM) 
+http://livetvbox.live:8080/movie/Jackie/Jackie/314061.mp4
+
+
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
 http://notvstream.in/jothitv/jothitv.m3u8
 
