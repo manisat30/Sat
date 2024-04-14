@@ -49,6 +49,15 @@ http://livetvbox.live:8080/live/Jackie/Jackie/5922.ts
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="TM: SUN TV HD " tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Sun-TV-HD-Logo.png" group-title="TAMIL",TM: SUN TV HD 
 http://livetvbox.live:8080/live/Jackie/Jackie/5923.ts
 
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1417.jpg",IN: SUN TV_ 4K (S)
+http://zeestb1.online/dhoom.php?id=10689
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2235.png",IN: SUNTV_ HD (S)
+http://zeestb1.online/dhoom.php?id=10764
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1416.jpg",IN: ZEE TAMIL _4K
+http://zeestb1.online/dhoom.php?id=10763
+
+
+
 
 #EXTINF:-1,zee tamil HD 
 http://sonyiptv.net:8080/live/95814pq/10869nm/276959.ts
@@ -91,7 +100,16 @@ http://livetvbox.live:8080/live/Jackie/Jackie/5917.ts
 
 
 
-
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg",IN: STAR  VIJAY  _4K
+http://zeestb1.online/dhoom.php?id=10767
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4744.jpg",IN: STAR VIJAY  _4K
+http://zeestb1.online/dhoom.php?id=11431
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1815.jpg",IN: STAR VIJAY _4K
+http://zeestb1.online/dhoom.php?id=10768
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1444.jpg",IN: VIJAY SUPER _4K
+http://zeestb1.online/dhoom.php?id=10607
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4508.jpg",IN: VIJAY  SUPER_HD
+http://zeestb1.online/dhoom.php?id=10608
 
 
 #EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="Tamil: Colors Tamil (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL",Tamil: Colors Tamil (4K).
@@ -785,6 +803,54 @@ http://124.29.225.205:8000/play/a047/index.m3u8
 http://124.29.225.205:8000/play/a044/index.m3u8
 #EXTINF:-1,nick HD
 http://124.29.225.205:8000/play/a03r/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/5827.jpg",IN: ZEE THIRAI_HD
+http://zeestb1.online/dhoom.php?id=9938
+#EXTINF:-1 tvg-id="in_ktvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2442.jpg",IN: KTV_4K
+http://zeestb1.online/dhoom.php?id=10604
+#EXTINF:-1 tvg-id="in_ktv.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1243.jpg",IN: KTV _HD
+http://zeestb1.online/dhoom.php?id=11090
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1450.jpg",IN: JAYA MOVIES_HD
+http://zeestb1.online/dhoom.php?id=4859
+#EXTINF:-1 tvg-id="in_jayamax.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1421.jpg",IN: JAYA MAX _ HD
+http://zeestb1.online/dhoom.php?id=10769
+#EXTINF:-1 tvg-id="in_rajdigitalplus.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1429.jpg",IN: RAJ DIGITAL PLUS _HD
+http://zeestb1.online/dhoom.php?id=5574
+#EXTINF:-1 tvg-id="uka_skysportsaction.uk" tvg-name="" group-title="VIP SPORTS  NFL/NBA/NHL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/",SKY SPORTS  NFL_ FHD
+http://zeestb1.online/dhoom.php?id=9657
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="VIP SPORTS  NFL/NBA/NHL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/",SKY SPORTS NFL _HD
+http://zeestb1.online/dhoom.php?id=9658
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6184.jpg",IN: STAR  VIJAY  _4K
+http://zeestb1.online/dhoom.php?id=10767
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4744.jpg",IN: STAR VIJAY  _4K
+http://zeestb1.online/dhoom.php?id=11431
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1815.jpg",IN: STAR VIJAY _4K
+http://zeestb1.online/dhoom.php?id=10768
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1444.jpg",IN: VIJAY SUPER _4K
+http://zeestb1.online/dhoom.php?id=10607
+#EXTINF:-1 tvg-id="vijaysuper.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/4508.jpg",IN: VIJAY  SUPER_HD
+http://zeestb1.online/dhoom.php?id=10608
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1417.jpg",IN: SUN TV_ 4K (S)
+http://zeestb1.online/dhoom.php?id=10689
+#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2235.png",IN: SUNTV_ HD (S)
+http://zeestb1.online/dhoom.php?id=10764
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1416.jpg",IN: ZEE TAMIL _4K
+http://zeestb1.online/dhoom.php?id=10763
+#EXTINF:-1 tvg-id="colorstamilhd.in" tvg-name="" group-title="TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest?cb=20180222170738",IN: COLORS TAMIL_ 4K
+http://zeestb1.online/dhoom.php?id=7878
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1419.jpg",IN: JAYA TV_4K
+http://zeestb1.online/dhoom.php?id=10766
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1428.jpg",IN: RAJ TV_ HD
+http://zeestb1.online/dhoom.php?id=5573
+
+
+
 
 
 
