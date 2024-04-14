@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
 http://notvstream.in/jothitv/jothitv.m3u8
 
+
 #EXTINF:-1,IPL: STAR SPORTS TAMIL 1 ᴴᴰ
 http://livetvbox.live:8080/live/Jackie/Jackie/303590.ts
 #EXTINF:-1,TATA IPL 2024 PBKS v RR on IPL: STAR SPORTS TAMIL ⁴ᵏ
@@ -13,6 +14,10 @@ http://livetvbox.live:8080/live/Jackie/Jackie/303591.ts
 http://livetvbox.live:8080/live/Sylvia/Sylvia/303590.ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Tata_IPL.png",JIOCINEMA CRICKET 1
 http://Watchindia.net:8880/live/98697/23119/2492.ts
+
+#EXTINF:-1,ITAMIL MOVIES ACTION 1 _FHD
+http://zeestb1.online/dhoom.php?id=9761
+ 
 
 #EXTINF:-1,SUN HD USA
 http://watchindia.net:8880/live/98697/23119/2089.ts
