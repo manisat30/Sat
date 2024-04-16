@@ -19,9 +19,11 @@ http://zeestb1.online/dhoom.php?id=9761
  
 #EXTINF:-1,MY SUN TV
 http://livetvbox.live:8080/live/Jackie/Jackie/143001.ts
-
 #EXTINF:-1,MY STAR VIJAY
 http://livetvbox.live:8080/live/Jackie/Jackie/143000.ts
+#EXTINF:-1,SL ZEE TAMIL
+http://livetvbox.live:8080/live/Jackie/Jackie/142941.ts
+
 #EXTINF:-1,SUN HD USA
 http://watchindia.net:8880/live/98697/23119/2089.ts
 
