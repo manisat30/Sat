@@ -11,6 +11,8 @@ https://plx.iptv18.tech/dhoom.php?id=11214
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi
 http://notvstream.in/jothitv/jothitv.m3u8
 
+#EXTINF:-1,CINEMANIA 4K
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1438226&extension=ts&play_token=U1wfcYOlsb
 
 #EXTINF:-1,TAMIL MOVIES ACTION 1 _FHD
 http://zeestb1.online/dhoom.php?id=9761
