@@ -42,11 +42,11 @@ http://Watchindia.net:8880/live/98697/23119/2492.ts
 
 
 
-#EXTINF:-1,SUN TV
+#EXTINF:-1,SUN TV SD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
-#EXTINF:-1,SUN TV
+#EXTINF:-1,SUN TV HD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155880&extension=ts&play_token=MEAUPMYGON
-#EXTINF:-1,SUN TV bp
+#EXTINF:-1,SUN TV HD bp
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=369375&extension=ts&play_token=zFFBGKfRgg
 
 #EXTINF:-1,STAR VIJAY
