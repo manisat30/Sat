@@ -14,7 +14,23 @@ http://notvstream.in/jothitv/jothitv.m3u8
 
 #EXTINF:-1,TAMIL MOVIES ACTION 1 _FHD
 http://zeestb1.online/dhoom.php?id=9761
- 
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155873&extension=ts&play_token=dZsFXdSlgB
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155968&extension=ts&play_token=stXNocJxd7
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL JIOCINEMA CRICKET 1
+http://Watchindia.net:8880/live/98697/23119/2492.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-8
+https://rftv.wtf/tp/tplay.mpd?contentID=1033|license_type=clearkey&license_key=https://rftv.wtf/tp/tplay.php?contentID=1033&key
+
+
+
+
 #EXTINF:-1,SUN TV
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155880&extension=ts&play_token=MEAUPMYGON
 #EXTINF:-1,SUN TV bp
@@ -111,23 +127,6 @@ http://zeestb1.online/dhoom.php?id=10608
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
-http://xtv.ooo:8080/live/check5732/check12092/220061.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL Star Sports 1 HD
-http://xtv.ooo:8080/live/check5732/check12092/220062.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-3
-https://vsd218.mycdn.me/hls/6091134994950.m3u8/sig/6ozZc01ErLA/expires/1711184126338/srcIp/152.58.212.9/urls/45.136.22.86/clientType/36/srcAg/CHROME_ANDROID/mid/7358102718214/video.m3u8?p
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-7
-https://liveb.streamready.in/starsports1hdhindi/smil:common.smil/manifest.mpd|license_type=clearkey&license_key={"keys":[{"kty":"oct","k":"AiQsnP3yZdNhfpjtZMq4gA","kid":"jixvPenDM2+2q/U7qNsXyA"}],"type":"temporary"}
-
-#EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL  CRICKET-8
-https://rftv.wtf/tp/tplay.mpd?contentID=1033|license_type=clearkey&license_key=https://rftv.wtf/tp/tplay.php?contentID=1033&key
-
 
 
 
