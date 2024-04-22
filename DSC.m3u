@@ -1,23 +1,14 @@
-
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
-#EXTINF:-1,IREN (2024) (TAMIL)
-http://xtv.ooo:8080/movie/105578/105578/377455.mkv
 
+#EXTINF:-1,CINEMANIA 4K
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1438226&extension=ts&play_token=U1wfcYOlsb
 
-
-#EXTINF:-1,IREN (2024) (TAMIL)
-http://livetvbox.live:8080/movie/Jackie/Jackie/316946.mp4
-
-#EXTINF:-1,SIREN
-https://cdn10.vidfile.xyz/Www.1TamilYogi.BET%20-%20Siren%20(2024)%20Tamil%20HD%20720p.mkv
-
-#EXTINF:-1,SIREN
-https://cdn.asumanaksoy.com/video/56e2be5ee3f9b620a685147d20535538
-
-#EXTINF:-1,ITAMIL MOVIES ACTION 1 _FHD
+#EXTINF:-1,TAMIL MOVIES ACTION 1 _FHD
 http://zeestb1.online/dhoom.php?id=9761
- 
+
+
+
 
 #EXTINF:-1 group-title="bhakthi",Swasthik
 http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
