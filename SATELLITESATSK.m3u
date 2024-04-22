@@ -42,7 +42,8 @@ http://Watchindia.net:8880/live/98697/23119/2492.ts
 
 
 
-
+#EXTINF:-1,SUN TV
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
 #EXTINF:-1,SUN TV
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155880&extension=ts&play_token=MEAUPMYGON
 #EXTINF:-1,SUN TV bp
@@ -52,6 +53,14 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=369375&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155874&extension=ts&play_token=qAGhR4rXRH
 #EXTINF:-1,STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281855&extension=ts&play_token=WnFdeUjsVo
+#EXTINF:-1,STAR VIJAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&extension=ts&play_token=pIV4Km4pBh
+ 
+
+#EXTINF:-1,STAR VIJAY
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
+ 
+
 
 #EXTINF:-1,ZEE TAMIL
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155876&extension=ts&play_token=maQTQlNGCc
