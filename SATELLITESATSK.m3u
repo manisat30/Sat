@@ -84,8 +84,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281855&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&extension=ts&play_token=pIV4Km4pBh
 #EXTINF:-1,STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
-#EXTINF:-1,STAR VIJAY
-http://localhost/ch/770731_
 #EXTINF:-1,STAR VIJAY HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100153
 
@@ -113,8 +111,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155876&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155901&extension=ts&play_token=gXhpxkrn1O
 #EXTINF:-1,ZEE TAMIL
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281862&extension=ts&play_token=dwA0LpoYOT
-#EXTINF:-1,ZEE TAMIL
-http://localhost/ch/770770_
 #EXTINF:-1,ZEE TAMIL HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100169
 
