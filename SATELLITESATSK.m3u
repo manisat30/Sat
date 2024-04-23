@@ -45,7 +45,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1438226&ext
 http://zeestb1.online/dhoom.php?id=9761
 
 
-
+#EXTINF:-1,SUN TV HD
+http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
 #EXTINF:-1,SUN TV
 http://localhost/ch/770758_
 #EXTINF:-1,SUN TV SD
@@ -54,6 +55,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155880&extension=ts&play_token=MEAUPMYGON
 #EXTINF:-1,SUN TV HD bp
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=369375&extension=ts&play_token=zFFBGKfRgg
+
+
 
 #EXTINF:-1,STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155874&extension=ts&play_token=qAGhR4rXRH
@@ -65,6 +68,10 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
 #EXTINF:-1,STAR VIJAY
 http://localhost/ch/770731_
+#EXTINF:-1,STAR VIJAY HD
+http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100153
+
+
 
 
 #EXTINF:-1,ZEE TAMIL
@@ -75,29 +82,28 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155901&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281862&extension=ts&play_token=dwA0LpoYOT
 #EXTINF:-1,ZEE TAMIL
 http://localhost/ch/770770_
+#EXTINF:-1,ZEE TAMIL HD
+http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100169
 
+#EXTINF:-1,ZEETHIRAI HD
+http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100171
 
 #EXTINF:-1,SUN HD USA
 http://watchindia.net:8880/live/98697/23119/2089.ts
 #EXTINF:-1,SUN HD IND
 http://watchindia.net:8880/live/98697/23119/843.ts
 
-
 #EXTINF:-1,SUN HD 
 http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 
-
 #EXTINF:-1,SUN HD 
 http://xtv.ooo:8080/live/check5732/check12092/244623.ts
-
 
 #EXTINF:-1,SUN HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 #EXTINF:-1,SUN HD 
 http://sonyiptv.net:8080/live/95814pq/10869nm/276938.ts
-
-#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="Tamil: SUNTV (FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/HD.SUN.jpg/revision/latest/scale-to-width-down/340?cb=20180306135150" group-title="TAMIL",Tamil: SUNTV (FHD)
 
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1417.jpg",IN: SUN TV_ 4K (S)
 http://zeestb1.online/dhoom.php?id=10689
