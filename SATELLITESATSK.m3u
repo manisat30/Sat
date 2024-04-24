@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1,TAMIL CRIME
+http://localhost/ch/776942_
+
+#EXTINF:-1,TAMIL HORROR
+http://localhost/ch/776933_
 
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
 http://livetvbox.live:8080/live/Jackie/Jackie/296241.ts
