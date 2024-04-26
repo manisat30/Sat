@@ -1,15 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
-http://livetvbox.live:8080/live/Jackie/Jackie/296241.ts
-
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
-https://plx.iptv18.tech/dhoom.php?id=11214
-
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi
-http://notvstream.in/jothitv/jothitv.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL SS tamil
@@ -174,6 +165,15 @@ http://xtv.ooo:8080/live/check5732/check12092/244523.ts
 
 
 
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
+http://livetvbox.live:8080/live/Jackie/Jackie/296241.ts
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
+https://plx.iptv18.tech/dhoom.php?id=11214
+
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi
+http://notvstream.in/jothitv/jothitv.m3u8
 
 
 
