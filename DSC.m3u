@@ -1,5 +1,45 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
+#EXTINF:-1, SAT.SK MOVIES| TAMIL 2022
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1024831&extension=ts&play_token=zIIn9zFY0X
+
+
+ #EXTINF:-1, SAT.SK MOVIES| TAMIL-1
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019905&extension=ts&play_token=1L7gZ23uW3
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 2
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019914&extension=ts&play_token=JluH8y3rDP
+
+#EXTINF:-1, SAT.SK MOVIE TAMIL 3
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019906&extension=ts&play_token=ln1xnSb5iG
+ 
+#EXTINF:-1, SAT.SK MOVIE TAMIL 4
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019907&extension=ts&play_token=4kivXd2732
+
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 5
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019908&extension=ts&play_token=wdCNhHI8al
+
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 6
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019909&extension=ts&play_token=D9En9a2TXO
+
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 7
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019910&extension=ts&play_token=saVPstzizq
+
+
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 8
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019911&extension=ts&play_token=YKJl3uLRT5
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 9
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019912&extension=ts&play_token=WPlaxd7x0M
+
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 10
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&extension=ts&play_token=I85MYR85Nr
+
 
 
 #EXTINF:-1 group-title="bhakthi",Swasthik
