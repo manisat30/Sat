@@ -1,9 +1,15 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
-#EXTINF:-1, SAT.SK MOVIES| TAMIL 2022
+#EXTINF:-1,CINEMANIA 4K
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1438226&extension=ts&play_token=U1wfcYOlsb
+
+#EXTINF:-1,SAT.SK MOVIES ACTION 1 _FHD
+http://zeestb1.online/dhoom.php?id=9761
+
+#EXTINF:-1, SAT.SK MOVIES TAMIL 2022
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1024831&extension=ts&play_token=zIIn9zFY0X
 
-#EXTINF:-1, SAT.SK MOVIES| TAMIL-1
+#EXTINF:-1, SAT.SK MOVIES TAMIL-1
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019905&extension=ts&play_token=1L7gZ23uW3
 
 #EXTINF:-1, SAT.SK MOVIES TAMIL 2
