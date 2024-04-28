@@ -87,9 +87,13 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 #EXTINF:-1,AADHAVAN SL
 https://tnm3u.in.net/channel/index.php?ch=athavantv
 
+#EXTINF:-1,AADHAVAN SL
+https://95.217.218.87/deepamtvukhls/live.m3u8
+
+
+
 #EXTINF:-1,SUN TV HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
-
 #EXTINF:-1,SUN TV SD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
 #EXTINF:-1,SUN TV HD
