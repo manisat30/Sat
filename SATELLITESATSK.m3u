@@ -75,6 +75,12 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019912&ext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK MOVIES-10
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&extension=ts&play_token=I85MYR85Nr
 
+#EXTINF:-1,VASANTHAM TV Singapore
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=358179&extension=ts&play_token=E7Vgms8n4V
+
+#EXTINF:-1,VASANTHAM TV Singapore
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd?|drmScheme=clearkey&drmLicense=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
+
 
 
 
