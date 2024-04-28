@@ -78,8 +78,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&ext
 #EXTINF:-1,VASANTHAM TV Singapore
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=358179&extension=ts&play_token=E7Vgms8n4V
 
-#EXTINF:-1,VASANTHAM TV Singapore
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd?|drmScheme=clearkey&drmLicense=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1,VASANTHAM TV SL
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 
 
 
