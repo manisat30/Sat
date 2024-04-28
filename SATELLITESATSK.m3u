@@ -75,6 +75,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019912&ext
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK MOVIES-10
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&extension=ts&play_token=I85MYR85Nr
 
+
+
 #EXTINF:-1,VASANTHAM TV Singapore
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=358179&extension=ts&play_token=E7Vgms8n4V
 
@@ -87,7 +89,7 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 #EXTINF:-1,AADHAVAN SL
 https://tnm3u.in.net/channel/index.php?ch=athavantv
 
-#EXTINF:-1,AADHAVAN SL
+#EXTINF:-1,DEEPAM SL
 https://95.217.218.87/deepamtvukhls/live.m3u8
 
 
