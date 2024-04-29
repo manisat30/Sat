@@ -116,7 +116,8 @@ https://tnm3u.in.net/channel/index.php?ch=athavantv
 #EXTINF:-1,DEEPAM SL
 https://95.217.218.87/deepamtvukhls/live.m3u8
 
-
+#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",VIKATAN TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=123917&ott=d2h2&user=5682248544
 
 #EXTINF:-1,SUN TV HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
@@ -223,6 +224,32 @@ http://notvstream.in/jothitv/jothitv.m3u8
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2768
 
 
+title="[D2H] TAMIL" tvg-logo="",PEPPERS TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=23125&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43414" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",PUTHIYA THALAIMURAI TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43414&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="rajdigitalplus.in" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",RAJ DIGITAL PLUS
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43415&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43416" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",RAJ MUSIX
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43416&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",RAJ TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43417&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43418" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",SEITHIGAL TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43418&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43419" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",STAR VIJAY FHD
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43419&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43420" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",SUN MUSIC FHD
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43420&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43421" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",SUN TV FHD
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43421&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43422" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",VENDHAR TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43422&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",VIKATAN TV
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=123917&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="43423" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",ZEE TAMIL FHD
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43423&ott=d2h2&user=5682248544
+#EXTINF:-1 tvg-id="128481" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",ZEE TAMIL FHD.
+http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=128481&ott=d2h2&user=5682248544
 
 #EXTINF:-1 tvg-id="894" tvg-name="" group-title="TAMIL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",(JMOB) KTV HD
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=894
