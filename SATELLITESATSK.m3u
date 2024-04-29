@@ -119,6 +119,22 @@ https://95.217.218.87/deepamtvukhls/live.m3u8
 #EXTINF:-1 tvg-id="123917" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",VIKATAN TV
 http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=123917&ott=d2h2&user=5682248544
 
+#EXTINF:-1,  (JMOB) COKE STUDIO TAMIL
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2939
+
+
+#EXTINF:-1, SUN TV HD (DOLBY VISION) (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=155535&e=.m3u8&user=5682248544&ott=snxt
+#EXTINF:-1, SUN TV HD (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=14020&e=.m3u8&user=5682248544&ott=snxt
+#EXTINF:-1, SUN TV (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=9016&e=.m3u8&user=5682248544&ott=snxt
+#EXTINF:-1, (TBOX) SUN TV HD
+https://rftv.wtf/tp/tplay.mpd?contentID=521
+#EXTINF:-1, (JMOB) SUN TV HD
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=896
+
+
 #EXTINF:-1,SUN TV HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
 #EXTINF:-1,SUN TV SD
@@ -250,6 +266,60 @@ http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=123917&ott=d2h2&user=56822
 http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=43423&ott=d2h2&user=5682248544
 #EXTINF:-1 tvg-id="128481" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",ZEE TAMIL FHD.
 http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=128481&ott=d2h2&user=5682248544
+
+
+#EXTINF:-1, SUN TV HD (DOLBY VISION) (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=155535&e=.m3u8&user=5682248544&ott=snxt
+
+#EXTINF:-1, SUN TV HD (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=14020&e=.m3u8&user=5682248544&ott=snxt
+
+#EXTINF:-1, SUN TV (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=9016&e=.m3u8&user=5682248544&ott=snxt
+
+#EXTINF:-1, (TBOX) SUN TV HD
+https://rftv.wtf/tp/tplay.mpd?contentID=521
+
+#EXTINF:-1, (JMOB) SUN TV HD
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=896
+
+
+#EXTINF:-1, (JMOB) ZEE TAMIL
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=628
+ 
+#EXTINF:-1, (JMOB) ZEE TAMIL HD
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=1356
+
+
+#EXTINF:-1, (JMOB) JAYA TV HD
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=419
+ 
+
+#EXTINF:-1, (JMOB) J MOVIES
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=417
+
+#EXTINF:-1, (JMOB) COKE STUDIO TAMIL
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2939
+
+
+
+#EXTINF:-1, (TBOX) STAR VIJAY HD
+https://rftv.wtf/tp/tplay.mpd?contentID=496
+
+#EXTINF:-1, (TBOX) MURASU TV
+https://rftv.wtf/tp/tplay.mpd?contentID=411
+
+#EXTINF:-1, (TBOX) DD TAMIL
+https://rftv.wtf/tp/tplay.mpd?contentID=334
+
+
+#EXTINF:-1, (TBOX) ZEE TAMIL
+https://rftv.wtf/tp/tplay.mpd?contentID=257
+
+
+#EXTINF:-1, SUN NEWS (SNXT)
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?id=64067&e=.m3u8&user=5682248544&ott=snxt
+
 
 #EXTINF:-1 tvg-id="894" tvg-name="" group-title="TAMIL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",(JMOB) KTV HD
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=894
