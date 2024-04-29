@@ -135,8 +135,7 @@ https://rftv.wtf/tp/tplay.mpd?contentID=521
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=896
 
 
-#EXTINF:-1,SUN TV HD
-http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
+
 #EXTINF:-1,SUN TV SD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
 #EXTINF:-1,SUN TV HD
@@ -155,8 +154,7 @@ http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 http://xtv.ooo:8080/live/check5732/check12092/244623.ts
 #EXTINF:-1,SUN HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
-#EXTINF:-1,SUN HD 
-http://sonyiptv.net:8080/live/95814pq/10869nm/276938.ts
+
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1417.jpg",IN: SUN TV_ 4K (S)
 http://zeestb1.online/dhoom.php?id=10689
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2235.png",IN: SUNTV_ HD (S)
@@ -175,8 +173,7 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281855&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&extension=ts&play_token=pIV4Km4pBh
 #EXTINF:-1,STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
-#EXTINF:-1,STAR VIJAY HD
-http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100153
+
 
 
 
@@ -202,18 +199,11 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155876&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155901&extension=ts&play_token=gXhpxkrn1O
 #EXTINF:-1,ZEE TAMIL
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281862&extension=ts&play_token=dwA0LpoYOT
-#EXTINF:-1,ZEE TAMIL HD
-http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100169
-
-#EXTINF:-1,ZEETHIRAI HD
-http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100171
 
 
 
 
 
-#EXTINF:-1,zee tamil HD 
-http://sonyiptv.net:8080/live/95814pq/10869nm/276959.ts
 #EXTINF:-1,zee tamil HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/45505.ts
 #EXTINF:-1,ZEE TAMIL HD
