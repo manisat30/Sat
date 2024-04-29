@@ -219,11 +219,13 @@ https://plx.iptv18.tech/dhoom.php?id=11214
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi
 http://notvstream.in/jothitv/jothitv.m3u8
 
+#EXTINF:-1 tvg-id="2768" tvg-name="" group-title="TAMIL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jothi_TV.png",(JMOB) JOTHI TV
+https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2768
+
 
 
 #EXTINF:-1 tvg-id="894" tvg-name="" group-title="TAMIL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png",(JMOB) KTV HD
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=894
-
 
 #EXTINF:-1 tvg-id="682" tvg-name="" group-title="TAMIL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png",(JMOB) SUN LIFE
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=682
