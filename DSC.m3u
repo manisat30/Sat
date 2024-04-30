@@ -83,6 +83,17 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&ext
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL ADFREE TAMIL
+https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL 4K TAMIL
+https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1280324/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL 4K TAMIL (JIO)
+https://c2ag.short.gy/tamil.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Tamil Streams Rasi",SAT-SK IPL SS tamil
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155873&extension=ts&play_token=dZsFXdSlgB
 
