@@ -43,9 +43,6 @@ https://c2ag.short.gy/tamil.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL SS tamil
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155873&extension=ts&play_token=dZsFXdSlgB
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL STAR SPORTS TAMIL
-http://sansat.net:88/Doctrtafnit/9JVAZO9OST/93731
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL
 http://xtv.ooo:8080/live/105578/105578/167574.ts
 
