@@ -37,9 +37,13 @@ http://livetvbox.live:8080/series/Jackie/Jackie/319797.mp4
 https://f2.openfile.online/downloads/L_XLLj46iaNeLckBdNRcow/1714495102/d/Tamil%20Movies/Tamil%202024%20Movies/Oru%20Nodi%20(2024)/Oru%20Nodi%20(2024)%20HQ%20DVDScr/Oru%20Nodi%20(720p)/Oru%20Nodi%20(2024)%20HQ%20DVDScr%20Single%20Part%20(720p).mp4
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL ADFREE TAMIL
+https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL 4K TAMIL
+https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1280324/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",TAMIL (JIO)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL 4K TAMIL (JIO)
 https://c2ag.short.gy/tamil.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL SS tamil
