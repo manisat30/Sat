@@ -1,37 +1,59 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL ADFREE TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",விளம்பரம் இல்லா ஐபிஎல் IPL ADFREE TAMIL
 https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL 4K TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",விளம்பரம் இல்லா ஐபிஎல் (ஆங்கிலம்) IPL ADFREE English
+https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",HERO CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/a1469c70c34f4712982e6c895f05c913/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",BATTER CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/933538ce86d04486b8fc3f949200d951/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",STUMP CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",BIRD EYE CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/4eb7fa6d5c8342d298be3b6649e9cbe9/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",SPLIT CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/31657ca6ac464025ba5ceffa7ec48939/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",ஐபிஎல் IPL 4K TAMIL
 https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1280324/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",IPL 4K TAMIL (JIO)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",ஐபிஎல் IPL 4K TAMIL (JIO)
 https://c2ag.short.gy/tamil.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL SS tamil
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",ஐபிஎல் SAT-SK IPL SS tamil
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155873&extension=ts&play_token=dZsFXdSlgB
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL STAR SPORTS TAMIL
-http://sansat.net:88/Doctrtafnit/9JVAZO9OST/93731
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",ஐபிஎல் SAT-SK IPL
 http://xtv.ooo:8080/live/105578/105578/167574.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL STAR SPORTS TAMIL HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",ஐபிஎல் SAT-SK IPL STAR SPORTS TAMIL HD
 http://zeestb1.online/dhoom.php?id=9693
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL STAR SPORTS TAMIL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",ஐபிஎல் SAT-SK IPL STAR SPORTS TAMIL
 http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=155873&extension=ts&play_token=Il7PUPgrig
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",ஐபிஎல் SAT-SK IPL Star Sports 1 HD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155968&extension=ts&play_token=stXNocJxd7
 
-#EXTINF:-1 tvg-logo="" group-title="IPL",SAT-SK IPL JIOCINEMA CRICKET 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL JIOCINEMA CRICKET
 http://Watchindia.net:8880/live/98697/23119/2614.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",IPL JIO TAMIL 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL JIOCINEMA CRICKET
+http://Watchindia.net:8880/live/98697/23119/2492.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",ஐபிஎல் IPL JIO TAMIL 
 https://prod-sports-south-gm.jiocinema.com/hls/live/2109682/hd_akamai_androidmob_avc_tam_ipl_s2_m2280424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL STAR SPORTS TAMIL
+http://Watchindia.net:8880/live/98697/23119/2186.ts
 
 
 
