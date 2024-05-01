@@ -10,6 +10,22 @@ https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/m
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",விளம்பரம் இல்லா ஐபிஎல் (ஆங்கிலம்) IPL ADFREE English
 https://prod-ent-live-gm.jiocinema.com/out/v1/272eae19c0fb4d50a8efa0261ed53cdd/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",HERO CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/a1469c70c34f4712982e6c895f05c913/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",BATTER CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/933538ce86d04486b8fc3f949200d951/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",STUMP CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/6b8480f7115444298d80daa3bc442c28/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",BIRD EYE CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/4eb7fa6d5c8342d298be3b6649e9cbe9/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",SPLIT CAM
+https://prod-ent-live-gm.jiocinema.com/out/v1/31657ca6ac464025ba5ceffa7ec48939/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="IPL" tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg",ஐபிஎல் IPL 4K TAMIL
 https://prod-sports-south-cf.jiocinema.com/hls/live/2109711/uhd_akamai_atv_avc_tam_ipl_s1_m1280324/master.m3u8
 
