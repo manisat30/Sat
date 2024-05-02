@@ -102,6 +102,9 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=358179&exte
 #EXTINF:-1,VASANTHAM TV SL
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 
+#EXTINF:-1, வசந்தம் Vasantham TV SL
+http://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+
 #EXTINF:-1,STAR TAMIL SL
 https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
@@ -118,6 +121,18 @@ http://cyberxstudios.tech/fleming/x/cyberxplay.php?id=123917&ott=d2h2&user=56822
 https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2939
 
 
+
+#EXTINF:-1, சன் Sun TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6692/index.m3u8
+
+#EXTINF:-1, ஜெயா Jaya TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6696/index.m3u8
+
+#EXTINF:-1, கே.டிவி
+KTV tamil http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6693/index.m3u8
+
+#EXTINF:-1, ராஜ் RAJ digital plus
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
 
 
 
@@ -146,6 +161,10 @@ http://zeestb1.online/dhoom.php?id=10689
 http://zeestb1.online/dhoom.php?id=10764
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1416.jpg",ஜீதமிழ் ZEE TAMIL _4K
 http://zeestb1.online/dhoom.php?id=10763
+
+
+
+
 
 
 
