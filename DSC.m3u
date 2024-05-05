@@ -6,6 +6,8 @@ http://public.iptv18.tech/yupp.php?id=28816
 http://public.iptv18.tech/yupp.php?id=7670
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK MOVIES HD
 http://public.iptv18.tech/yupp.php?id=7070
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK CLASSIC MOVIES
+http://public.iptv18.tech/yupp.php?id=5386
 
 #EXTM3U
 
