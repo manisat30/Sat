@@ -1,5 +1,11 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK BAKTHI RADIO
+http://public.iptv18.tech/yupp.php?id=28816
+#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="4189.png",SONGS NOW TAMIL HD
+http://public.iptv18.tech/yupp.php?id=7670
+#EXTINF:-1 tvg-id="tamil movies - new" tvg-name="" group-title="YUPPTV-" tvg-logo="3635.png",MOVIES NOW TAMIL HD 5
+http://public.iptv18.tech/yupp.php?id=7070
 
 #EXTM3U
 
