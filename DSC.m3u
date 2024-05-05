@@ -1,10 +1,10 @@
 #EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK BAKTHI RADIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK EAST.FM RADIO
 http://public.iptv18.tech/yupp.php?id=28816
 #EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="4189.png",SONGS NOW TAMIL HD
 http://public.iptv18.tech/yupp.php?id=7670
-#EXTINF:-1 tvg-id="tamil movies - new" tvg-name="" group-title="YUPPTV-" tvg-logo="3635.png",MOVIES NOW TAMIL HD 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK HD
 http://public.iptv18.tech/yupp.php?id=7070
 
 #EXTM3U
@@ -79,7 +79,6 @@ https://prod-sports-south-gm.jiocinema.com/hls/live/2109682/hd_akamai_androidmob
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pT9Y5tP2/1080x720-1564282-tata-ipl.jpg" group-title="IPL",SAT-SK IPL STAR SPORTS TAMIL
 http://Watchindia.net:8880/live/98697/23119/2186.ts
-
 
 
 
