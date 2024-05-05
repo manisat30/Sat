@@ -5,6 +5,8 @@ http://public.iptv18.tech/yupp.php?id=28816
 http://public.iptv18.tech/yupp.php?id=7670
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK MOVIES
 http://public.iptv18.tech/yupp.php?id=7070
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK CLASSIC MOVIES
+http://public.iptv18.tech/yupp.php?id=5386
 
 #EXTINF:-1, அரண்மனை-4 2024 ARANMANAI-4
 103.161.35.195/movie/Jackie/Jackie/323600.mp4?token=ShJcU0BbQQNHWAYIAQUMXFsJAFZUBFYFVFJVU1ZSBVEEUVUBUVJRXVQbGBpEF0dcWF1vWQIXXlIDUVQHVUgRR0JVRm1aV0EDRw8ECQNTBBsVEkRZC1BGWwBVUwNdUAoFBQYYEENaBxtfGwcBD1UFDQwSHBIDTRAEQwwDWzoAVkRYU1EQCRFBFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwALAxIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG1RABBJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg0NQFVVTQ==
@@ -1493,8 +1495,7 @@ http://public.iptv18.tech/yupp.php?id=5379
 
 #EXTINF:-1 tvg-id="tamil dubbed movies" tvg-name="" group-title="YUPPTV-" tvg-logo="3630.png",MOVIES NOW TAMIL HD 1
 http://public.iptv18.tech/yupp.php?id=7764
-#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2080.PNG",NEW RELEASED MOVIE TAMIL
-http://public.iptv18.tech/yupp.php?id=5386
+
 #EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2128.png",TAMIL DOCUMENTARY
 http://public.iptv18.tech/yupp.php?id=5434
 #EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2147.png",PPV TAMIL CLASSIC MOVIES
