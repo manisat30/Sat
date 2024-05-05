@@ -6,6 +6,8 @@ http://public.iptv18.tech/yupp.php?id=28816
 http://public.iptv18.tech/yupp.php?id=7670
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK MOVIES HD
 http://public.iptv18.tech/yupp.php?id=7070
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK MOVIES server2
+http://185.59.223.49/c444a5102cea0251cf7b3434a30c434ffee8d21e5e9ff2e2ad8d3ce0f8869d9a7219c0dc8ac728b961cdf5f948df1028afbc66cd5a6c1c41fb7df2ec2e9d17accfc3ca00902c4e157a4192b310ee2d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBHsT9V/In-Shot-20240215-223822325.jpg" group-title="MOVIES",SAT-SK CLASSIC MOVIES
 http://public.iptv18.tech/yupp.php?id=5386
 
