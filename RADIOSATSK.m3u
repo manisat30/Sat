@@ -1,7 +1,7 @@
 #EXTM3U  RADIO 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK BAKTHI RADIO
-http://public.iptv18.tech/yupp.php?id=28816
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK EAST.FM RADIO
+http://185.59.223.49/c444a5102cea0251cf7e3434a90c434ffee8d21e5e9ff2e29cad02ddd2bbb1fa7e4bc3d28ac328a57ec8f4ab1c8a0876afbd30ca556d4e44ff2df4ba7ecc17fb9695c607947e18127043c3ec/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK BAKTHI RADIO
 https://stream-144.zeno.fm/2532fy6zrf9uv?zs=QpaJn5wfTcqhcZblZDgytw
