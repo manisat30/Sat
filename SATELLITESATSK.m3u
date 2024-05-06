@@ -138,8 +138,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&ext
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6150.jpg",24/7: RAJINIKANTH BLOCKBUSTER MOVIES 1
-
 
 
 
@@ -153,21 +151,9 @@ https://public.iptv18.tech/vallabh.php?tv=385188
 https://public.iptv18.tech/vallabh.php?tv=385187
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=385185
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL CINEMA
-https://public.iptv18.tech/vallabh.php?tv=385190
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 1 FHD
-https://public.iptv18.tech/zain.php?tv=211245
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 2 FHD
-https://public.iptv18.tech/zain.php?tv=211244
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 3 FHD
-https://public.iptv18.tech/zain.php?tv=211243
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 4 FHD
-https://public.iptv18.tech/zain.php?tv=211242
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 5 FHD
-https://public.iptv18.tech/zain.php?tv=211241
 
 
 #EXTINF:-1,VASANTHAM TV Singapore
