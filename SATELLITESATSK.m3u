@@ -145,8 +145,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&ext
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg",CINEMANIA TAMIL 4K
 https://public.iptv18.tech/vallabh.php?tv=425731
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",*_*_*_*_* CINEMANIA TAMIL CINEMA *_*_*_*_*
-https://public.iptv18.tech/vallabh.php?tv=385190
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 1 FHD
 https://public.iptv18.tech/vallabh.php?tv=385189
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 2 FHD
@@ -155,7 +153,8 @@ https://public.iptv18.tech/vallabh.php?tv=385188
 https://public.iptv18.tech/vallabh.php?tv=385187
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL 5 FHD
 https://public.iptv18.tech/vallabh.php?tv=385185
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24/7 CINEMANIA" tvg-logo="",CINEMANIA TAMIL CINEMA
+https://public.iptv18.tech/vallabh.php?tv=385190
 
 
 
