@@ -138,7 +138,83 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=1019913&ext
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/6150.jpg",24/7: RAJINIKANTH BLOCKBUSTER MOVIES 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 1 FHD
+https://public.iptv18.tech/zain.php?tv=211245
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 2 FHD
+https://public.iptv18.tech/zain.php?tv=211244
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 3 FHD
+https://public.iptv18.tech/zain.php?tv=211243
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 4 FHD
+https://public.iptv18.tech/zain.php?tv=211242
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 5 FHD
+https://public.iptv18.tech/zain.php?tv=211241
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 1 HD
+https://public.iptv18.tech/zain.php?tv=338756
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 2 HD
+https://public.iptv18.tech/zain.php?tv=338755
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 3 HD
+https://public.iptv18.tech/zain.php?tv=338754
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 4 HD
+https://public.iptv18.tech/zain.php?tv=338753
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 5 HD
+https://public.iptv18.tech/zain.php?tv=338752
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 6 HD
+https://public.iptv18.tech/zain.php?tv=338751
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CLASSIC CINEMA 7 HD
+https://public.iptv18.tech/zain.php?tv=338750
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CINEMA 1 HD
+https://public.iptv18.tech/zain.php?tv=338749
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CINEMA 2 HD
+https://public.iptv18.tech/zain.php?tv=338748
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | KOLLYWOOD CLASSIC MOVIES HD
+https://public.iptv18.tech/zain.php?tv=338747
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | DRAMA THRILLER CINEMA HD
+https://public.iptv18.tech/zain.php?tv=338746
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CRIME DRAMA CINEMA HD
+https://public.iptv18.tech/zain.php?tv=338745
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | DRAMA CINEMA HD
+https://public.iptv18.tech/zain.php?tv=338744
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | CRIME CINEMA HD
+https://public.iptv18.tech/zain.php?tv=338743
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | COMEDY CINEMA HD
+https://public.iptv18.tech/zain.php?tv=338742
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | ACTION ADVENTURE HD
+https://public.iptv18.tech/zain.php?tv=338741
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | ACTION CINEMA HD
+https://public.iptv18.tech/zain.php?tv=338740
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL | COMEDY DRAMA HD
+https://public.iptv18.tech/zain.php?tv=338739
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | SIVAJI GANESAN HD
+https://public.iptv18.tech/zain.php?tv=338738
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | ARYA HD
+https://public.iptv18.tech/zain.php?tv=338737
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | JAYAM RAVI HD
+https://public.iptv18.tech/zain.php?tv=338736
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | KARTHI HD
+https://public.iptv18.tech/zain.php?tv=338735
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | R. MADHAVAN HD
+https://public.iptv18.tech/zain.php?tv=338734
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | SURIYA HD
+https://public.iptv18.tech/zain.php?tv=338733
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | VIJAY SETHUPATHI HD
+https://public.iptv18.tech/zain.php?tv=338732
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | VIKRAM
+https://public.iptv18.tech/zain.php?tv=338731
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | KAMAL HASSAN
+https://public.iptv18.tech/zain.php?tv=338730
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | PRABHU HD
+https://public.iptv18.tech/zain.php?tv=338729
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | RAJINIKANTH HD
+https://public.iptv18.tech/zain.php?tv=338728
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | VIJAY
+https://public.iptv18.tech/zain.php?tv=338727
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | VIJAYAKANTH
+https://public.iptv18.tech/zain.php?tv=338726
+
 
 
 
