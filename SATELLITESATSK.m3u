@@ -158,7 +158,16 @@ https://public.iptv18.tech/vallabh.php?tv=385190
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 1 FHD
+https://public.iptv18.tech/zain.php?tv=211245
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 2 FHD
+https://public.iptv18.tech/zain.php?tv=211244
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 3 FHD
+https://public.iptv18.tech/zain.php?tv=211243
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 4 FHD
+https://public.iptv18.tech/zain.php?tv=211242
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 5 FHD
+https://public.iptv18.tech/zain.php?tv=211241
 
 
 #EXTINF:-1,VASANTHAM TV Singapore
