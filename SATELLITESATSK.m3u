@@ -187,6 +187,23 @@ http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
 
 
 
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUNTV HD
+https://atv-green.vercel.app/api/zon2.php?id=2493
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV HD
+https://atv-green.vercel.app/api/zon2.php?id=2494
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV HD US
+https://atv-green.vercel.app/api/zon2.php?id=2495
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV US
+https://atv-green.vercel.app/api/zon2.php?id=2496
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV HD UK
+https://atv-green.vercel.app/api/zon2.php?id=2534
+
+
+
 #EXTINF:-1,சன்.டிவி SUN TV SD
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
 #EXTINF:-1,சன்.டிவி SUN TV HD
@@ -264,6 +281,23 @@ https://public.iptv18.tech/share.php?id=23869.ts
 https://public.iptv18.tech/share.php?id=181966.ts
 
 
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", STAR VIJAY HD.
+https://atv-green.vercel.app/api/zon2.php?id=2497
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", STAR VIJAY HD
+https://atv-green.vercel.app/api/zon2.php?id=2498
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", STAR VIJAY HD US.
+https://atv-green.vercel.app/api/zon2.php?id=2499
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", STAR VIJAY HD US
+https://atv-green.vercel.app/api/zon2.php?id=2500
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", STAR VIJAY US
+https://atv-green.vercel.app/api/zon2.php?id=2501
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", VIJAY TV HD UK
+https://atv-green.vercel.app/api/zon2.php?id=2533
+
 
 
 
@@ -312,6 +346,7 @@ http://public.iptv18.tech/yupp.php?id=5496
 
 
 
+
 #EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="http://stariptv.fun/logos/4klogo.png",TAMIL: VIJAY TV (4K).
 https://public.iptv18.tech/share.php?id=98898.ts
 #EXTINF:-1 tvg-id="vijayhd.in" tvg-name="" group-title="STAR-TAMIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROOIKSnDTq5SwY84Bh4uMzNquSleZdK2SnAA&usqp=CAU",TAMIL: VIJAY TV (FHD)
@@ -328,6 +363,19 @@ https://public.iptv18.tech/share.php?id=5915.ts
 https://public.iptv18.tech/share.php?id=5917.ts
 
 
+
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD
+https://atv-green.vercel.app/api/zon2.php?id=2504
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD
+https://atv-green.vercel.app/api/zon2.php?id=2505
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD US
+https://atv-green.vercel.app/api/zon2.php?id=2506
+
+#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL US
+https://atv-green.vercel.app/api/zon2.php?id=2507
 
 
 #EXTINF:-1,ஜீதமிழ் ZEE TAMIL
