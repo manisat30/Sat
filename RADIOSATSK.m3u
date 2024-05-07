@@ -1,5 +1,81 @@
 #EXTM3U  RADIO 
 #EXTM3U
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", CMR FM
+https://atv-green.vercel.app/api/zon2.php?id=5767
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", CMR HD
+https://atv-green.vercel.app/api/zon2.php?id=5768
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", CTR24 FM
+https://atv-green.vercel.app/api/zon2.php?id=5769
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", VANAKKAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5770
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", GEETHAVANI FM
+https://atv-green.vercel.app/api/zon2.php?id=5771
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", VANNA TAMIL RADIO
+https://atv-green.vercel.app/api/zon2.php?id=5772
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", SHAKTHIFM
+https://atv-green.vercel.app/api/zon2.php?id=5773
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", SOORIANFM
+https://atv-green.vercel.app/api/zon2.php?id=5774
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", CAPITAL FM
+https://atv-green.vercel.app/api/zon2.php?id=5775
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", PULIKALIN KURAL FM
+https://atv-green.vercel.app/api/zon2.php?id=5776
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", GOKULAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5777
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", CTBC RADIO
+https://atv-green.vercel.app/api/zon2.php?id=5778
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", TAMIL KUYIL RADIO
+https://atv-green.vercel.app/api/zon2.php?id=5779
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", TIME FM RADIO
+https://atv-green.vercel.app/api/zon2.php?id=5780
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", KALASAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5781
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", VARNAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5782
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", A9 RADIO
+https://atv-green.vercel.app/api/zon2.php?id=5783
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", TAMIL FM
+https://atv-green.vercel.app/api/zon2.php?id=5784
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", BATTI FM
+https://atv-green.vercel.app/api/zon2.php?id=5785
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", VASANTHAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5786
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", TAMILARUVI FM
+https://atv-green.vercel.app/api/zon2.php?id=5787
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", UTHAYAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5788
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", PASANGA FM
+https://atv-green.vercel.app/api/zon2.php?id=5789
+
+#EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", YAZHPANAM FM
+https://atv-green.vercel.app/api/zon2.php?id=5790
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWzrcHY/In-Shot-20240214-082751998.jpg" group-title="சாட்எஸ்கே-SAT.SK-RADIO",SAT.SK EAST.FM RADIO
 http://185.59.223.49/c444a5102cea0251cf7e3434a90c434ffee8d21e5e9ff2e29cad02ddd2bbb1fa7e4bc3d28ac328a57ec8f4ab1c8a0876afbd30ca556d4e44ff2df4ba7ecc17fb9695c607947e18127043c3ec/index.m3u8
 
