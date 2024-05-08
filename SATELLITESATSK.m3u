@@ -158,9 +158,9 @@ https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 https://tnm3u.in.net/channel/index.php?ch=athavantv
 #EXTINF:-1,DEEPAM SL
 https://95.217.218.87/deepamtvukhls/live.m3u8
-#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",VIKATAN TV
+#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="TAMIL" tvg-logo="",VIKATAN TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
-#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="[D2H] TAMIL" tvg-logo="",MEDIACORP TV
+#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="TAMIL" tvg-logo="",MEDIACORP TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
 
@@ -186,6 +186,10 @@ https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
 
 
+
+
+#EXTINF:-1, SUN TV
+http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
 #EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUNTV HD
 https://atv-green.vercel.app/api/zon2.php?id=2493
@@ -281,6 +285,11 @@ https://public.iptv18.tech/share.php?id=23869.ts
 https://public.iptv18.tech/share.php?id=181966.ts
 
 
+
+
+#EXTINF:-1, STAR VIJAY
+http://flbl1.112421.net:8082/4151823/mpegts?token=KVKPX9W8DU
+
 #EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", STAR VIJAY HD.
 https://atv-green.vercel.app/api/zon2.php?id=2497
 
@@ -365,6 +374,10 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
+
+#EXTINF:-1, ZEE TAMIL
+http://flbl1.112421.net:8082/4151884/mpegts?token=KVKPX9W8DU
+ 
 #EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD
 https://atv-green.vercel.app/api/zon2.php?id=2504
 
