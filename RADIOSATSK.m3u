@@ -1,5 +1,10 @@
-#EXTM3U  RADIO 
+#EXTM3U  SAT.SK RADIO 
 #EXTM3U
+
+
+#EXTINF:-1, ECHO TAMIL P-1
+https://drive.google.com/file/d/18-lNb2JRpPRaLnaFIO9kYFrgmUaIaU8n/view?usp=drivesdk
+
 
 #EXTINF:-1 group-title="TAMIL RADIO" tvg-logo="5969.png", CMR FM
 https://atv-green.vercel.app/api/zon2.php?id=5767
