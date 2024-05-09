@@ -258,12 +258,8 @@ http://xtv.ooo:8080/movie/105578/105578/252854.mkv
 http://xtv.ooo:8080/movie/105578/105578/252856.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Gautamiputra Satakarni (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Mb7hg3zvrrMfJioJNivxK3NFP4.jpg" group-title="IN | TAMIL",Gautamiputra Satakarni (2017)
 http://xtv.ooo:8080/movie/105578/105578/252857.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Gemini Man (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg" group-title="HOLLYWOOD | Action",Gemini Man (2019)
-http://xtv.ooo:8080/movie/105578/105578/252858.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Genius (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68J4oVTTAVynEI4kpdO7Wulrr1e.jpg" group-title="IN | TAMIL",Genius (2018)
 http://xtv.ooo:8080/movie/105578/105578/252859.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Geostorm (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg" group-title="(2017) HOLLYWOOD",Geostorm (2017)
-http://xtv.ooo:8080/movie/105578/105578/252860.mkv
 #EXTINF:-1 tvg-id="" tvg-name="God Father (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jwlvdhANpxQtfyxAI5Yd40e7Q4.jpg" group-title="IN | TAMIL",God Father (2020)
 http://xtv.ooo:8080/movie/105578/105578/252861.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Goko Mako (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqoMB4HmYUxD5VK8OdDBlEgERfX.jpg" group-title="IN | TAMIL",Goko Mako (2019)
@@ -448,7 +444,7 @@ http://xtv.ooo:8080/movie/105578/105578/252976.mkv
 http://xtv.ooo:8080/movie/105578/105578/252977.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SaamyÂ² (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvyDUclIXYVl6nakOljELf1SqQC.jpg" group-title="IN | TAMIL",SaamyÂ² (2018)
 http://xtv.ooo:8080/movie/105578/105578/252978.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jai Lava Kusa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hARCpKZ3B0SzpanSAjyiALRhguD.jpg" group-title="IN | TAMIL",Jai Lava Kusa (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Jai Lava Kusa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hARCpKZ3B0SzpanSAjyiALRhguD.jpg" ogroup-title="IN | TAMIL",Jai Lava Kusa (2017)
 http://xtv.ooo:8080/movie/105578/105578/252979.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Sandakozhi 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcagy4oHw5SyXEPvcVwjmyrKf3T.jpg" group-title="IN | TAMIL",Sandakozhi 2 (2018)
 http://xtv.ooo:8080/movie/105578/105578/252980.mkv
