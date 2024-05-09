@@ -3012,6 +3012,11 @@ http://xtv.ooo:8080/movie/105578/105578/358770.mkv
 http://xtv.ooo:8080/movie/105578/105578/358771.mkv
 
 
+#EXTINF:-1, TRIGGER (2022)*
+http://xtv.ooo:8080/movie/105578/105578/307467.mkv
+ 
+#EXTINF:-1, TRIGGER (2022)
+http://xtv.ooo:8080/movie/105578/105578/344812.mkv
 
 
 
