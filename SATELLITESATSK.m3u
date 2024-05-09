@@ -166,7 +166,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 
 
-
 #EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2061.png",TET HD
 http://public.iptv18.tech/yupp.php?id=5367
 #EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2189.png",SHAKTHI TV US
@@ -187,6 +186,8 @@ https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2
 #EXTINF:-1, ராஜ் RAJ digital plus
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
 
+#EXTINF:-1, THANDHI ONE
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
 
