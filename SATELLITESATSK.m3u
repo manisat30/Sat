@@ -170,38 +170,6 @@ https://public.iptv18.tech/vallabh.php?tv=385185
 
 
 
-#EXTINF:-1,VASANTHAM TV Singapore
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=358179&extension=ts&play_token=E7Vgms8n4V
-#EXTINF:-1,VASANTHAM TV SL
-https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
-#EXTINF:-1, வசந்தம் Vasantham TV SL
-http://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
-#EXTINF:-1,STAR TAMIL SL
-https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
-#EXTINF:-1,AADHAVAN SL
-https://tnm3u.in.net/channel/index.php?ch=athavantv
-#EXTINF:-1,DEEPAM SL
-https://95.217.218.87/deepamtvukhls/live.m3u8
-#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="TAMIL" tvg-logo="",VIKATAN TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
-#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="TAMIL" tvg-logo="",MEDIACORP TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
-
-
-#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2061.png",TET HD
-http://public.iptv18.tech/yupp.php?id=5367
-#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2189.png",SHAKTHI TV US
-http://public.iptv18.tech/yupp.php?id=5495
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="YUPPTV-" tvg-logo="2148.png",SHAKTHI TV
-http://public.iptv18.tech/yupp.php?id=5454
-#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2195.png",SHAKITHI UK
-http://public.iptv18.tech/yupp.php?id=5501
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="YUPPTV-" tvg-logo="2185.png",NETHRA TV
-http://public.iptv18.tech/yupp.php?id=5491
-
-#EXTINF:-1,  (JMOB) COKE STUDIO TAMIL
-https://cyberxstudios.tech/fleming/x/cyberxplay.php?ott=j76&user=5682248544&id=2939
-
 
 
 
@@ -2334,10 +2302,6 @@ https://public.iptv18.tech/vallabh.php?tv=713929
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 1 FHD
 https://public.iptv18.tech/zain.php?tv=211245
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 CINEMA" tvg-logo="http://image.5gtv.online/logo/24x7_cine.png",IN | TAMIL 2 FHD
@@ -2412,6 +2376,38 @@ https://public.iptv18.tech/zain.php?tv=338728
 https://public.iptv18.tech/zain.php?tv=338727
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24X7 TAMIL MOVIES" tvg-logo="http://image.5gtv.online/logo/24x7_ta.png",24X7 | TAMIL ACTOR | VIJAYAKANTH
 https://public.iptv18.tech/zain.php?tv=338726
+
+
+
+#EXTINF:-1,VASANTHAM TV Singapore
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=358179&extension=ts&play_token=E7Vgms8n4V
+#EXTINF:-1,VASANTHAM TV SL
+https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1, வசந்தம் Vasantham TV SL
+http://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
+#EXTINF:-1,STAR TAMIL SL
+https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
+#EXTINF:-1,AADHAVAN SL
+https://tnm3u.in.net/channel/index.php?ch=athavantv
+#EXTINF:-1,DEEPAM SL
+https://95.217.218.87/deepamtvukhls/live.m3u8
+#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="TAMIL" tvg-logo="",VIKATAN TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vikatan-tv/master.m3u8
+#EXTINF:-1 tvg-id="123917" tvg-name="" group-title="TAMIL" tvg-logo="",MEDIACORP TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2061.png",TET HD
+http://public.iptv18.tech/yupp.php?id=5367
+#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2189.png",SHAKTHI TV US
+http://public.iptv18.tech/yupp.php?id=5495
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="YUPPTV-" tvg-logo="2148.png",SHAKTHI TV
+http://public.iptv18.tech/yupp.php?id=5454
+#EXTINF:-1 tvg-id="new_xmltv_ld" tvg-name="" group-title="YUPPTV-" tvg-logo="2195.png",SHAKITHI UK
+http://public.iptv18.tech/yupp.php?id=5501
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="YUPPTV-" tvg-logo="2185.png",NETHRA TV
+http://public.iptv18.tech/yupp.php?id=5491
+
+
 
 
 
