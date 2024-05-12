@@ -216,21 +216,6 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1, SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUNTV HD
-https://atv-green.vercel.app/api/zon2.php?id=2493
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV HD
-https://atv-green.vercel.app/api/zon2.php?id=2494
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV HD US
-https://atv-green.vercel.app/api/zon2.php?id=2495
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV US
-https://atv-green.vercel.app/api/zon2.php?id=2496
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", SUN TV HD UK
-https://atv-green.vercel.app/api/zon2.php?id=2534
-
 
 
 #EXTINF:-1,சன்.டிவி SUN TV SD
