@@ -375,17 +375,6 @@ https://public.iptv18.tech/share.php?id=5917.ts
 http://flbl1.112421.net:8082/4151884/mpegts?token=KVKPX9W8DU
  
 #EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD
-https://atv-green.vercel.app/api/zon2.php?id=2504
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD
-https://atv-green.vercel.app/api/zon2.php?id=2505
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL HD US
-https://atv-green.vercel.app/api/zon2.php?id=2506
-
-#EXTINF:-1 group-title="MrSmart | TAMIL ENTERTAINMENT" tvg-logo="2693.png", ZEE TAMIL US
-https://atv-green.vercel.app/api/zon2.php?id=2507
-
 
 #EXTINF:-1,ஜீதமிழ் ZEE TAMIL
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155876&extension=ts&play_token=maQTQlNGCc
