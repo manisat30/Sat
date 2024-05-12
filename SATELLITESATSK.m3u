@@ -291,6 +291,11 @@ http://flbl1.112421.net:8082/4151823/mpegts?token=KVKPX9W8DU
 #EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL: Star Vijay HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL: Star Vijay HD
 http://xtv.ooo:8080/RiyazMPT/433833/244624
 
+#EXTINF:-1, IN: STAR VIJAY FHD
+http://xtv.ooo:8080/live/105578/105578/355598.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Star Vijay Super" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Star Vijay Super
+http://xtv.ooo:8080/RiyazMPT/433833/244622
 
 #EXTINF:-1,விஜய்.டிவி STAR VIJAY
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155874&extension=ts&play_token=qAGhR4rXRH
@@ -302,8 +307,6 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945573&exte
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945552&extension=ts&play_token=yaDyy0PE7H
 
 
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Star Vijay Super" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Star Vijay Super
-http://xtv.ooo:8080/RiyazMPT/433833/244622
 
 #EXTINF:-1,விஜய்.டிவி Vijay HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/19744.ts
@@ -370,6 +373,8 @@ http://xtv.ooo:8080/live/check5732/check12092/244523.ts
 #EXTINF:-1 tvg-id="" tvg-name="IND: Zee Tamil" tvg-logo="" group-title="IND | TAMIL",IND: Zee Tamil
 http://xtv.ooo:8080/RiyazMPT/433833/244523
 
+#EXTINF:-1, IN: ZEE TAMIL FHD
+http://xtv.ooo:8080/live/105578/105578/355606.ts
 
 
 #EXTINF:-1,ஜீதமிழ் ZEE TAMIL
