@@ -181,10 +181,10 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 
 
 
-#EXTINF:-1, SUN TV
+#EXTINF:-1, சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
-#EXTINF:-1, TAMIL: SUNTV (4K)
+#EXTINF:-1, share: சன்டிவி SUNTV (4K)
 http://livetvbox.live:8080/live/Jackie/Jackie/98899.ts
 #EXTINF:-1, SUNTV (FHD)
 http://livetvbox.live:8080/live/Jackie/Jackie/23320.ts
@@ -197,14 +197,25 @@ http://livetvbox.live:8080/live/Jackie/Jackie/5922.ts
 #EXTINF:-1, SUN TV HD
 http://livetvbox.live:8080/live/Jackie/Jackie/5923.ts
 
-#EXTINF:-1,சன்.டிவி SUN HD 
-http://xtv.ooo:8080/live/check5732/check12092/244553.ts
-#EXTINF:-1,சன்.டிவி SUN HD 
-http://xtv.ooo:8080/live/check5732/check12092/244623.ts
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Sun TV
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",Opp:IND: TAMIL : Sun TV
 http://xtv.ooo:8080/RiyazMPT/433833/244623
 #EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
 http://xtv.ooo:8080/RiyazMPT/433833/244553
+
+#EXTINF:-1, IND: TAMIL_SUN TV HD
+http://xtv.ooo:8080/live/105578/105578/244553.ts
+#EXTINF:-1, IND: TAMIL : SUN TV
+http://xtv.ooo:8080/live/105578/105578/244623.ts
+#EXTINF:-1, IN: SUN TV FHD
+http://xtv.ooo:8080/live/105578/105578/355599.ts
+
+
+#EXTINF:-1, சன்.டிவி SUN HD 
+http://xtv.ooo:8080/live/check5732/check12092/244553.ts
+#EXTINF:-1,சன்.டிவி SUN HD 
+http://xtv.ooo:8080/live/check5732/check12092/244623.ts
+
 
 
 
