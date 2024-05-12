@@ -223,13 +223,14 @@ http://watchindia.net:8880/live/98697/23119/2089.ts
 #EXTINF:-1,சன்.டிவி SUN HD IND
 http://watchindia.net:8880/live/98697/23119/843.ts
 
-#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1417.jpg",சன்.டிவி SUN TV_ 4K (S)
-http://zeestb1.online/dhoom.php?id=10689
-#EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/2235.png",சன்.டிவி SUNTV_ HD (S)
-http://zeestb1.online/dhoom.php?id=10764
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1416.jpg",ஜீதமிழ் ZEE TAMIL _4K
-http://zeestb1.online/dhoom.php?id=10763
 
+
+#EXTINF:-1,சன்.டிவி SUN TV SD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
+#EXTINF:-1,சன்.டிவி SUN TV HD
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155880&extension=ts&play_token=MEAUPMYGON
+#EXTINF:-1,சன்.டிவி SUN TV HD bp
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=369375&extension=ts&play_token=zFFBGKfRgg
 
 
 
@@ -256,13 +257,6 @@ https://public.iptv18.tech/share.php?id=159.ts
 https://public.iptv18.tech/share.php?id=76343.ts
 
 
-
-#EXTINF:-1,சன்.டிவி SUN TV SD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=945571&extension=ts&play_token=vgthMBNnRc
-#EXTINF:-1,சன்.டிவி SUN TV HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155880&extension=ts&play_token=MEAUPMYGON
-#EXTINF:-1,சன்.டிவி SUN TV HD bp
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=369375&extension=ts&play_token=zFFBGKfRgg
 
 
 
