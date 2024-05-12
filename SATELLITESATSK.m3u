@@ -188,16 +188,26 @@ http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
 
 
-#EXTINF:-1,சன்.டிவி SUN HD USA
-http://watchindia.net:8880/live/98697/23119/2089.ts
-#EXTINF:-1,சன்.டிவி SUN HD IND
-http://watchindia.net:8880/live/98697/23119/843.ts
+
 #EXTINF:-1,சன்.டிவி SUN HD 
 http://xtv.ooo:8080/live/check5732/check12092/244553.ts
 #EXTINF:-1,சன்.டிவி SUN HD 
 http://xtv.ooo:8080/live/check5732/check12092/244623.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Sun TV
+http://xtv.ooo:8080/RiyazMPT/433833/244623
+#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
+http://xtv.ooo:8080/RiyazMPT/433833/244553
+
+
+
 #EXTINF:-1,சன்.டிவி SUN HD 
 http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
+
+#EXTINF:-1,சன்.டிவி SUN HD USA
+http://watchindia.net:8880/live/98697/23119/2089.ts
+#EXTINF:-1,சன்.டிவி SUN HD IND
+http://watchindia.net:8880/live/98697/23119/843.ts
 
 #EXTINF:-1 tvg-id="suntvhd.in" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1417.jpg",சன்.டிவி SUN TV_ 4K (S)
 http://zeestb1.online/dhoom.php?id=10689
@@ -205,12 +215,6 @@ http://zeestb1.online/dhoom.php?id=10689
 http://zeestb1.online/dhoom.php?id=10764
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1416.jpg",ஜீதமிழ் ZEE TAMIL _4K
 http://zeestb1.online/dhoom.php?id=10763
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL : Sun TV" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL : Sun TV
-http://xtv.ooo:8080/RiyazMPT/433833/244623
-
-#EXTINF:-1 tvg-id="" tvg-name="IND: TAMIL_Sun TV HD" tvg-logo="" group-title="IND | TAMIL",IND: TAMIL_Sun TV HD
-http://xtv.ooo:8080/RiyazMPT/433833/244553
 
 
 
