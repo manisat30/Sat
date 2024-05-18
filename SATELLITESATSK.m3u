@@ -431,6 +431,8 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",ZEE TAMIL HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155876&extension=ts
 
 
 #EXTINF:-1, ZEE TAMIL
