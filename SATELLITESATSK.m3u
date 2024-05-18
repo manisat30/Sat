@@ -441,12 +441,6 @@ http://starshare.live:8080/live/12346/12346/225.ts
 http://xtv.ooo:8080/live/105578/105578/244523.ts
 
 
-#EXTINF:-1,  IN: ZEE TAMIL
-ffmpeg http://localhost/ch/631845_
-
-#EXTINF:-1,  IN TM: ZEE TAMIL
-ffmpeg http://localhost/ch/770770_
-
 
 
 #EXTINF:-1, ZEE TAMIL
