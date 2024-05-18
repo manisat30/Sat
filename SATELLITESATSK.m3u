@@ -431,8 +431,14 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",ZEE TAMIL HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155876&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", ஜீதமிழ் TM: ZEE TAMIL HD (USA)
+http://starshare.live:8080/live/12346/12346/5930.ts
+
+#EXTINF:-1, ஜீதமிழ் TM: ZEE TAMIL
+http://starshare.live:8080/live/12346/12346/225.ts
+
+#EXTINF:-1, ஜீதமிழ் IND: ZEE TAMIL
+http://xtv.ooo:8080/live/105578/105578/244523.ts
 
 
 #EXTINF:-1, ZEE TAMIL
@@ -455,13 +461,6 @@ http://xtv.ooo:8080/RiyazMPT/433833/244523
 #EXTINF:-1, IN: ZEE TAMIL FHD
 http://xtv.ooo:8080/live/105578/105578/355606.ts
 
-
-#EXTINF:-1,ஜீதமிழ் ZEE TAMIL
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155876&extension=ts&play_token=maQTQlNGCc
-#EXTINF:-1,ஜீதமிழ் ZEE TAMIL sd
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=155901&extension=ts&play_token=gXhpxkrn1O
-#EXTINF:-1,ஜீதமிழ் ZEE TAMIL
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=281862&extension=ts&play_token=dwA0LpoYOT
 
 
 
