@@ -227,14 +227,17 @@ https://public.iptv18.tech/vallabh.php?tv=385185
 #EXTINF:-1, THANDHI ONE
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
+#EXTINF:-1,சன்டிவி SUN TV
+http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
+
 #EXTINF:-1,சன்.டிவி SUN HD IND watch
 http://watchindia.net:8880/live/98697/23119/843.ts
+#EXTINF:-1,சன்.டிவி SUN HD IND watch
+http://lb.watchindia.net:8880/live/98697/23119/843.ts?token=TRINVkBbGwkUAF8EVA4AVg0ADAFaVVsKV1tWUgsGWAdQVlADVgBaAwMSFRIXQxAGWVVmWlwSWABSUEkVTRZcEWlZARUJEQACAgMbHEZDCw5dGgMCDwFUCVRRXAYASRsTX1RHDREACQoOBhscRlIaF11KV1JUbwZdEAoGUhpfVxZaXEkVXF1mV1NdWF4AFVhBCBoVEVFDEhpcDRBbVEkbAV9EF1ZHVhsJFAQNAFEVTkFbV0xdTEIbGlxBLHkaSRsGTkQAWUBaVl0UChtEFxVOQVFLZkFdQxZKAwIIUkpHA0EGEkkVXlJBbFVfV14BVBYKV1ZKEQISURpKQQhYVgxNDERvFV5XEQMRBAcMAFEVHw==
 #EXTINF:-1,சன்.டிவி SUN HD USA watch
 http://watchindia.net:8880/live/98697/23119/2089.ts
 
 
-#EXTINF:-1,சன்டிவி SUN TV
-http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
 #EXTINF:-1, share: சன்டிவி SUNTV (4K)
 http://livetvbox.live:8080/live/Jackie/Jackie/98899.ts
