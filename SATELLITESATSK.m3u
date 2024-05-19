@@ -265,15 +265,12 @@ http://xtv.ooo:8080/RiyazMPT/433833/244553
 http://xtv.ooo:8080/live/105578/105578/244553.ts
 #EXTINF:-1, IND: TAMIL : SUN TV
 http://xtv.ooo:8080/live/105578/105578/244623.ts
-#EXTINF:-1, IN: SUN TV FHD
-http://xtv.ooo:8080/live/105578/105578/355599.ts
 
 
 
-
-
-
-#EXTINF:-1,சன்.டிவி SUN HD 
+#EXTINF:-1,சன்.டிவி SUN HD
+http://108.181.123.13:8070/live/T-thornman/2126e132/76969.ts
+#EXTINF:-1,சன்.டிவி SUN HD
 http://iptvtree.net:8080/live/T-thornman/2126e132/76969.ts
 
 
