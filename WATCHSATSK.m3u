@@ -27,8 +27,6 @@ http://Watchindia.net:8880/live/98697/23119/2143.ts
 http://Watchindia.net:8880/live/98697/23119/2091.ts
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="" group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png",SKY SPORTS PREMIER LEAGUE
 http://Watchindia.net:8880/live/98697/23119/2092.ts
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="" group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png",SKY SPORTS FOOTBALL
-http://Watchindia.net:8880/live/98697/23119/2093.ts
 #EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="" group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png",SKY SPORTS F1
 http://Watchindia.net:8880/live/98697/23119/2094.ts
 #EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="" group-title="SPORTS" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png",SKY SPORTS ARENA
@@ -255,7 +253,7 @@ http://Watchindia.net:8880/live/98697/23119/817.ts
 http://Watchindia.net:8880/live/98697/23119/815.ts
 #EXTINF:-1 tvg-id="sanskartv.in" tvg-name="" group-title="HINDI" tvg-logo="https://watchindia.net/images/channels/hindi/Sanskar_TV.png",SANSKAR TV
 http://Watchindia.net:8880/live/98697/23119/2151.ts
-#EXTINF:-1 tvg-id="timesnowhd.in" tvg-name="" group-title="HINDI" tvg-logo="https://watchindia.net/images/channels/hindi/Times_Now.png",TIMES NOW
+#EXTINF:-1 tvg-id="timesnow.in" tvg-name="" group-title="HINDI" tvg-logo="https://watchindia.net/images/channels/hindi/Times_Now.png",TIMES NOW
 http://Watchindia.net:8880/live/98697/23119/839.ts
 #EXTINF:-1 tvg-id="tlc.in" tvg-name="" group-title="HINDI" tvg-logo="https://watchindia.net/images/channels/hindi/TLC.png",TLC HINDI
 http://Watchindia.net:8880/live/98697/23119/840.ts
@@ -683,13 +681,13 @@ http://Watchindia.net:8880/live/98697/23119/2101.ts
 http://Watchindia.net:8880/live/98697/23119/2044.ts
 #EXTINF:-1 tvg-id="abcnewslive.us" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png",ABC NEWS
 http://Watchindia.net:8880/live/98697/23119/2120.ts
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/AMC.png",AMC
+#EXTINF:-1 tvg-id="amc.us" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/AMC.png",AMC
 http://Watchindia.net:8880/live/98697/23119/2043.ts
 #EXTINF:-1 tvg-id="animalplanet.us" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png",ANIMAL PLANET
 http://Watchindia.net:8880/live/98697/23119/2039.ts
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="" group-title="USA NETWORK" tvg-logo="http://watchindia.net/images/channels/usa/BBC_America.png",BBC AMERICA
 http://Watchindia.net:8880/live/98697/23119/2055.ts
-#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-name="" group-title="USA NETWORK" tvg-logo="http://watchindia.net/images/channels/usa/BBC_World_News.png",BBC WORLD NEWS
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="" group-title="USA NETWORK" tvg-logo="http://watchindia.net/images/channels/usa/BBC_World_News.png",BBC WORLD NEWS
 http://Watchindia.net:8880/live/98697/23119/2579.ts
 #EXTINF:-1 tvg-id="bet.us" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/BET.png",BET
 http://Watchindia.net:8880/live/98697/23119/2063.ts
@@ -809,7 +807,7 @@ http://Watchindia.net:8880/live/98697/23119/2123.ts
 http://Watchindia.net:8880/live/98697/23119/2304.ts
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="" group-title="USA NETWORK" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png",VH1
 http://Watchindia.net:8880/live/98697/23119/2185.ts
-#EXTINF:-1 tvg-id="abchd.au" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png",ABC (NEW YORK)
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/ABC.png",ABC (NEW YORK)
 http://Watchindia.net:8880/live/98697/23119/2514.ts
 #EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="" group-title="USA NETWORK" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png",FOX (NEW YORK)
 http://Watchindia.net:8880/live/98697/23119/2590.ts
@@ -2597,3 +2595,17 @@ http://Watchindia.net:8880/movie/98697/23119/2611.mkv
 http://Watchindia.net:8880/movie/98697/23119/2612.mkv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBFEad9Yp2LtZNKsEbmWKruOOP2.jpg",ABRAHAM OZLER (2024)
 http://Watchindia.net:8880/movie/98697/23119/2613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uPpmBjY3znUqGY8kYwI5xvOrSc0.jpg",PREMALU (2024)
+http://Watchindia.net:8880/movie/98697/23119/2615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzk0NDI1NWUtODA1ZS00YzNmLWJlZDgtNzM1OTgxMjRmYmZmXkEyXkFqcGdeQXVyNzYzMTE0Njg@._V1_FMjpg_UY600_.jpg",UDANADI MANGALYAM (2024)
+http://Watchindia.net:8880/movie/98697/23119/2616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU3trr2MEZZuHM0okbG8RvtD7yP.jpg",PAKAL IRAVU (2024)
+http://Watchindia.net:8880/movie/98697/23119/2617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FMVnpnm8oUraL9IUQNOABA7nWJ.jpg",REBEL (2024)
+http://Watchindia.net:8880/movie/98697/23119/2618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16Uq9KbcNDQtI48E6xwyb8wk9x9.jpg",HANU-MAN (2024)
+http://Watchindia.net:8880/movie/98697/23119/2619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5HBKH7hNo8EElJTFQPEDwYgXhG.jpg",MANJUMMEL BOYS (2024)
+http://Watchindia.net:8880/movie/98697/23119/2620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MALAYALAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjcUv5KFKbIibbxeLIKUoNLeYZK.jpg",ANCHAKKALLAKOKKAN (2024)
+http://Watchindia.net:8880/movie/98697/23119/2621.mkv
