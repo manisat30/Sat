@@ -403,15 +403,18 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
 #EXTINF:-1, ஜீதமிழ் TM: ZEE TAMIL
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/225.ts
 
+
+#EXTINF:-1,  TM: ZEE TAMIL HD (USA)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
+
+#EXTINF:-1,  TAMIL: ZEE TAMIL (FHD)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9971.ts
+
+
+
 #EXTINF:-1, opp ஜீதமிழ் IND: ZEE TAMIL
 http://xtv.ooo:8080/live/105578/105578/244523.ts
 
-
-
-
-#EXTINF:-1, ZEE TAMIL
-http://flbl1.112421.net:8082/4151884/mpegts?token=KVKPX9W8DU
- 
 
 #EXTINF:-1,  ZEE TAMIL (FHD)
 http://livetvbox.live:8080/live/Jackie/Jackie/9971.ts
