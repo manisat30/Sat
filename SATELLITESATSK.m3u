@@ -378,13 +378,13 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", ஜீதமிழ் TM: ZEE TAMIL HD (USA)
-http://starshare.live:8080/live/12346/12346/5930.ts
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
 
 #EXTINF:-1, ஜீதமிழ் TM: ZEE TAMIL
-http://starshare.live:8080/live/12346/12346/225.ts
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/225.ts
 
-#EXTINF:-1, ஜீதமிழ் IND: ZEE TAMIL
+#EXTINF:-1, opp ஜீதமிழ் IND: ZEE TAMIL
 http://xtv.ooo:8080/live/105578/105578/244523.ts
 
 
