@@ -421,7 +421,15 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
-#EXTINF:-1,  ZEE TAMIL HD ஜீதமிழ்
+
+
+#EXTINF:-1, SUN TV சன் டிவி
+http://88b9da48.kazmazpaz.ru/iptv/BQA72TWGF9VE84/6692/manifest.m3u8
+
+#EXTINF:-1, STAR VIJAY HD விஜய் டிவி
+http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:65
+
+#EXTINF:-1,  ZEE TAMIL HD ஜீ தமிழ்
 http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=155876&extension=ts
 
 
