@@ -269,6 +269,21 @@ https://public.iptv18.tech/vallabh.php?tv=385185
 #EXTINF:-1, THANDHI ONE
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
+
+
+
+#EXTINF:-1, SUN TV சன் டிவி tll
+http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236369
+
+#EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
+http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236301
+
+#EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
+http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
+
+
+
+
 #EXTINF:-1,சன்டிவி SUN TV
 http://flbl1.112421.net:8082/4151826/mpegts?token=KVKPX9W8DU
 
@@ -423,17 +438,9 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
-#EXTINF:-1, SUN TV சன் டிவி tll
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236369
-
-#EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236301
 
 #EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
 http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:65
-
-#EXTINF:-1, ZEE TAMIL HD ஜீ தமிழ் tll
-http://tv.cloudcdn.me:80/live.ts?channelId=43423&uid=14505&deviceMac=00:1A:79:A7:53:75
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
