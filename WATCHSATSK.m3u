@@ -1,1 +1,7 @@
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KANCHIPURAM" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0011306147873118375311901.png",TEMPLE TV
+http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KANCHIPURAM" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2144488526404058563256885.png",DHARSHAN TV
+https://galaxyott.live/hls/dharshantv.m3u8
+#EXTINF:-1 
