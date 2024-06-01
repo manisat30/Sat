@@ -2,14 +2,18 @@
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://i.ibb.co/CV1Nf0p/In-Shot-20240519-225526863.jpg",INTRO WELCOME SAT.SK
 https://drive.usercontent.google.com/download?id=1ydVdo04a_PoRK3ZCqmpr467fGMxoBKol&export=download&confirm=t&uuid=662b0712-772f-41e9-9fc2-046e9714b46b
 
+#EXTINF:-1, STAR SPORTS TAMIL 1 HD
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9722.ts
+
+#EXTINF:-1, STAR SPORTS TAMIL-1
+http://xtv.ooo:8080/live/105578/105578/167574.ts
+
 #EXTINF:-1, STAR SPORTS TAMIL
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/277335
 
 #EXTINF:-1, STAR SPORTS TAMIL
 http://4ksuper.live:80/play/live.php?mac=00:1A:79:AF:B3:19&stream=155873&extension=ts&play_token=Il7PUPgrig
 
-#EXTINF:-1, STAR SPORTS TAMIL-1
-http://xtv.ooo:8080/live/105578/105578/167574.ts
 
 
 #EXTINF:-1, கருடன் Garudan (2024) (Cam)
