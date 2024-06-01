@@ -431,12 +431,17 @@ https://public.iptv18.tech/share.php?id=5917.ts
 
 
 
-
-
-
 #EXTINF:-1, STAR VIJAY HD விஜய் டிவி tll
 http://tv.cloudcdn.me/live.ts?channelId=43419&uid=5353&deviceMac=00:1A:79:17:D4:65
 
+
+
+
+#EXTINF:-1, IND: ZEE TAMIL fhd -opp
+http://xtv.ooo:8080/live/105578/105578/355608.ts
+
+#EXTINF:-1, opp ஜீதமிழ் IND: ZEE TAMIL
+http://xtv.ooo:8080/live/105578/105578/244523.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png", share ஜீதமிழ் TM: ZEE TAMIL HD (USA)
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5930.ts
@@ -453,8 +458,6 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9971.ts
 
 
 
-#EXTINF:-1, opp ஜீதமிழ் IND: ZEE TAMIL
-http://xtv.ooo:8080/live/105578/105578/244523.ts
 
 
 #EXTINF:-1,  ZEE TAMIL (FHD)
