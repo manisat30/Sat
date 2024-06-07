@@ -92,6 +92,9 @@ http://994256456879770428.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770428.ts
 #EXTINF:-1, STAR MOVIES 4K HEVC
 http://994256456879770448.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/770448.ts
 
+#EXTINF:-1, RU: REN TV HD PEH
+https://woobl.ru/hls987/Rentv_international.m3u8
+
 #EXTINF:-1, RU: PEH ТВ HD REN TV
 http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 
@@ -99,13 +102,7 @@ http://xtv.ooo:8080/live/digitalallhub/digitalallhub/353404.ts
 http://605801356401854840.ofk0601.xyz:80/play/vi819780/UC7EPNwtXmHb/854840.ts
 
 #EXTINF:-1, RU: REN TV HD PEH
-https://tv.makeevka.com/channel/11/index.m3u8
-
-#EXTINF:-1, RU: REN TV HD PEH
 https://edge02.odtv.az/o2/rentv/playlist.m3u8
-
-#EXTINF:-1, RU: REN TV HD PEH
-https://woobl.ru/hls987/Rentv_international.m3u8
 
 
 
