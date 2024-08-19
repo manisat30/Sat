@@ -17,9 +17,9 @@ http://tv.cloudcdn.me/live.ts?channelId=43408&uid=14505&deviceMac=00:1A:79:A7:53
 http://116.202.46.40:9023/SUN_LIFE_TAMIL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4hpNQ-nhP1-BVQwIvXjb-A1ccJJ4tp_rrDUG-nNbTuaMbPWEes1JWHY1-&s=10", K TV
 http://116.202.46.40:9023/KTV_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJLHqw_l5H8za2KO3qhLHh1jWzv_fkQbLNQ&usqp=CAU", SUN MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJLHqw_l5H8za2KO3qhLHh1jWzv_fkQbLNQ&usqp=CAU",SUN MUSIC
 http://116.202.46.40:9023/SUN_MUSIC_TAMIL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://m.media-amazon.com/images/I/71dBIIMQ2dL.png", THANDHI ONO
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SAT.SK" tvg-logo="https://m.media-amazon.com/images/I/71dBIIMQ2dL.png",THANDHI ONE
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
 
