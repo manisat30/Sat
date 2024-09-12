@@ -1,12 +1,45 @@
-#EXTM3U The playlist was created in "SAT.SK IPTV PLAYLIST"
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://storage3.fastupload.io/448bf928f75f020d/InShot_20240912_144744717.mp4?download_token=5b8cf225d80a8baba4b2cb8b69f6d0d1b78c75a0abb8623b3ded0b7ddaf56dec
+
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",AJK MOVIE HD DSC
+http://ptu.ridsys.in/riptv/live/stream66/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://storage3.fastupload.io/448bf928f75f020d/InShot_20240912_144744717.mp4?download_token=5b8cf225d80a8baba4b2cb8b69f6d0d1b78c75a0abb8623b3ded0b7ddaf56dec
+
+
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",ONE MOVIES HD DSC
+https://ipcloud.live/onetv/onemovies/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://storage3.fastupload.io/448bf928f75f020d/InShot_20240912_144744717.mp4?download_token=5b8cf225d80a8baba4b2cb8b69f6d0d1b78c75a0abb8623b3ded0b7ddaf56dec
+
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",RASI MOVIES DSC
+http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://storage3.fastupload.io/448bf928f75f020d/InShot_20240912_144744717.mp4?download_token=5b8cf225d80a8baba4b2cb8b69f6d0d1b78c75a0abb8623b3ded0b7ddaf56dec
+
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",RASI TV DSC
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://storage3.fastupload.io/448bf928f75f020d/InShot_20240912_144744717.mp4?download_token=5b8cf225d80a8baba4b2cb8b69f6d0d1b78c75a0abb8623b3ded0b7ddaf56dec
+
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",RASI TAMIL DSC
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="DIGITAL-SERVICE-CENTER" tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WX2LRGV9ezMaKJS9pZNlUrC26jSyWbmA&export=download",DIGITAL DSC
+https://storage2.fastupload.io/3899a927e8c30ca3/InShot_20240912_122540040.mp4?download_token=c1116538d0b2b5825a09e39344926ba1a5ab9ea772ecf96f3d78c6ea852ae120
+
+
+#EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/u/0/uc?id=1WYGrLNiiU5aly4fhpWAlGXYnnXCCsRD1&export=download" group-title="DIGITAL-SERVICE-CENTER",R-TV DSC
+https://ipcloud.live/rtvhd/live/index.m3u8
 
 
 
-#EXTINF:-1 group-title="bhakthi",Swasthik
-http://swasthiktv.chennaistream.net/swasthiktv/swasthiktvlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0836496572223849489540251.png" group-title="Devotional",Jothi Tv
-http://notvstream.in/jothitv/jothitv.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_2032542389748254668780317.png" group-title="Devotional",TTD
-https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 
-#EXTINF:-1 tvg-
+
+
+end
